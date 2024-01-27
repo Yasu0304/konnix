@@ -1,0 +1,20 @@
+@import "layout"
+@import "components"
+
+.priBg
+    background-color: $primary
+
+.priBgHover
+    background-color: $primary
+    transition: 0.9s
+    &:hover
+        background-color: $secondary
+.navCustomize
+    .nav-item
+        .nav-item,.nav-link
+            font-size:20px
+            line-height:48px 
+        .nav-link.active
+            background-color:$primary
+            color:$secondary
+            font-weight: bold
