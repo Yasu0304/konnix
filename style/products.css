@@ -1,1 +1,21 @@
-/*# sourceMappingURL=products.css.map */
+.sideLink {
+  color: #898C8E;
+}
+.sideLink .bi-arrow-right-short::before {
+  margin-right: -20px;
+  color: transparent;
+  transition: 0.5s;
+}
+
+.sideLink:after {
+  content: "";
+  display: block;
+  width: 0%;
+  height: 2px;
+  background-color: #44D62C;
+  transition: width 0.3s 0.3s;
+}
+
+.sideLink:hover:after {
+  width: 100%;
+}/*# sourceMappingURL=products.css.map */

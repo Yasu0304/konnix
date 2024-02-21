@@ -1,2 +1,19 @@
 @import "layout"
 @import "components"
+
+.sideLink
+    color: $k80
+    .bi-arrow-right-short::before
+        margin-right: -20px
+        color: transparent
+        transition: 0.5s
+
+.sideLink:after
+    content: ""
+    display: block
+    width: 0%
+    height: 2px
+    background-color: $secondary
+    transition: width 0.3s 0.3s
+.sideLink:hover:after
+    width: 100%

@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"products.css"}
+{"version":3,"sources":["products.sass","_layout.scss","products.css"],"names":[],"mappings":"AAGA;EACI,cCFE;ACAN;AFGI;EACI,mBAAA;EACA,kBAAA;EACA,gBAAA;AEDR;;AFGA;EACI,WAAA;EACA,cAAA;EACA,SAAA;EACA,WAAA;EACA,yBCdQ;EDeR,2BAAA;AEAJ;;AFCA;EACI,WAAA;AEEJ","file":"products.css"}
