@@ -1,10 +1,8 @@
 .sideLink {
   color: #898C8E;
 }
-.sideLink .bi-arrow-right-short::before {
-  margin-right: -20px;
-  color: transparent;
-  transition: 0.5s;
+.sideLink:visited {
+  color: #161519;
 }
 
 .sideLink:after {
@@ -16,6 +14,32 @@
   transition: width 0.3s 0.3s;
 }
 
+.sideLink:focus:after {
+  width: 100%;
+}
+
 .sideLink:hover:after {
   width: 100%;
+}
+
+.sideIcon a i.bi {
+  margin-right: -20px;
+  color: transparent;
+  transition: 0.5s;
+}
+
+.sideIcon a:focus i.bi {
+  margin-right: 0px;
+  color: #44D62C;
+}
+.sideIcon a:hover i.bi {
+  margin-right: 0px;
+  color: #44D62C;
+}
+
+.sideIcon a:focus {
+  color: #44D62C;
+}
+.sideIcon a:hover {
+  color: #161519;
 }/*# sourceMappingURL=products.css.map */

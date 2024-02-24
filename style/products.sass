@@ -3,10 +3,8 @@
 
 .sideLink
     color: $k80
-    .bi-arrow-right-short::before
-        margin-right: -20px
-        color: transparent
-        transition: 0.5s
+    &:visited
+        color: $primary
 
 .sideLink:after
     content: ""
@@ -15,5 +13,25 @@
     height: 2px
     background-color: $secondary
     transition: width 0.3s 0.3s
+.sideLink:focus:after
+    width: 100%
 .sideLink:hover:after
     width: 100%
+
+.sideIcon a i.bi
+    margin-right: -20px
+    color: transparent
+    transition: 0.5s
+
+.sideIcon a
+    &:focus i.bi
+        margin-right: 0px
+        color: $secondary
+    &:hover i.bi
+        margin-right: 0px
+        color: $secondary
+.sideIcon a
+    &:focus
+        color: $secondary
+    &:hover
+        color: $primary
