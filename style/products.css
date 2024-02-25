@@ -42,4 +42,18 @@
 }
 .sideIcon a:hover {
   color: #161519;
+}
+
+.productsList {
+  margin-bottom: 80px;
+}
+
+.productsList-btn {
+  background-color: #161519;
+  color: #fff;
+}
+.productsList-btn:hover {
+  background-color: #44D62C;
+  color: #161519;
+  transition: 0.5s;
 }/*# sourceMappingURL=products.css.map */
