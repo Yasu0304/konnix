@@ -15,3 +15,18 @@
     @include bg-center-cover
 .coverBg
     @include bg-center-cover
+    .blurLink
+        span
+            color: #00000000
+    &:hover
+        .blurLink
+            width: 100%
+            height: 100%
+            border-radius: 8px
+            overflow: hidden
+            background-color: rgba(255, 255, 255, 0.304)
+            backdrop-filter: blur(5px)
+            transition: 0.9s
+        span
+            color: $primary
+            transition: 0.9s
