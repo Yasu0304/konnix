@@ -1,0 +1,501 @@
+{
+  "Bike packing": {
+    "Saddle bag": {
+      "WR-19818L": {
+        "img": "https://yasu0304.github.io/konnix/img/products/bike_packing/saddle_bag/WR-19818L/WR-19818L-1.jpg"
+      },
+      "WR-15818L": {
+        "img": "https://yasu0304.github.io/konnix/img/products/bike_packing/saddle_bag/WR-15818L/WR-15818L.jpg"
+      },
+      "TR-17818": {
+        "img": "https://yasu0304.github.io/konnix/img/products/bike_packing/saddle_bag/TR-17818/TR-17818-1.jpg"
+      }
+    },
+    "Handlebar bag": {
+      "WR-23840HD": {
+        "img": ""
+      },
+      "WR-23840HD-V-WOQ": {
+        "img": ""
+      },
+      "WR-09107R": {
+        "img": ""
+      },
+      "WR-16840": {
+        "img": ""
+      },
+      "WR-15840HD-23": {
+        "img": ""
+      },
+      "WR-0709L": {
+        "img": ""
+      },
+      "TY-09107R-22N": {
+        "img": ""
+      }
+    },
+    "Frame bag": {
+      "WR-17133L1": {
+        "img": ""
+      },
+      "WR-15133M-23A": {
+        "img": ""
+      },
+      "WR-16133M-23A": {
+        "img": ""
+      },
+      "WR-17133XS": {
+        "img": ""
+      },
+      "WR-17133XSD-C": {
+        "img": ""
+      },
+      "WR-17133XSF": {
+        "img": ""
+      },
+      "WR-16134-23": {
+        "img": ""
+      }
+    },
+    "TOP tube bag": {
+      "WR-231702L-P": {
+        "img": ""
+      },
+      "WR-1702L-20": {
+        "img": ""
+      },
+      "WR-1903L-P": {
+        "img": ""
+      },
+      "WR-23709-P": {
+        "img": ""
+      }
+    },
+    "Cage bag": {
+      "WR-15840K": {
+        "img": ""
+      },
+      "WR-15840K-V": {
+        "img": ""
+      },
+      "WR-15840KL-V": {
+        "img": ""
+      },
+      "WR-70128LZ": {
+        "img": ""
+      }
+    }
+  },
+  "HandleBar bag": {
+    "Waterproof collection": {
+      "WR-23811": {
+        "img": ""
+      },
+      "TR-811-20": {
+        "img": ""
+      }
+    },
+    "Standard collection": {
+      "TY-0905R-i": {
+        "img": ""
+      },
+      "TY-0905R": {
+        "img": ""
+      },
+      "TY-11050XL": {
+        "img": ""
+      },
+      "TY-00049R-23": {
+        "img": ""
+      },
+      "TY-95049TR": {
+        "img": ""
+      },
+      "TY-16149FM": {
+        "img": ""
+      }
+    }
+  },
+  "i-Touch bag": {
+    "WR-820-15+": {
+      "img": ""
+    },
+    "WR-23854-15+": {
+      "img": ""
+    },
+    "WR-17071": {
+      "img": ""
+    },
+    "TY-10071EV-R": {
+      "img": ""
+    }
+
+  },
+  "Saddle bag": {
+    "Waterproof collection": {
+      "WR-20040V-23": {
+        "img": ""
+      },
+      "WR-20070V-23": {
+        "img": ""
+      },
+      "WR-14818U-M1V": {
+        "img": ""
+      },
+      "WR-23818L": {
+        "img": ""
+      },
+      "WR-07120RV": {
+        "img": ""
+      },
+      "WR-18818L": {
+        "img": ""
+      },
+      "WR-18818S": {
+        "img": ""
+      },
+      "WR-818S": {
+        "img": ""
+      }
+    },
+    "Standard collection": {
+      "RF-12025RV1-M": {
+        "img": ""
+      },
+      "TY-14065L": {
+        "img": ""
+      },
+      "TY-1670FV-M": {
+        "img": ""
+      },
+      "TY-16025WB": {
+        "img": ""
+      },
+      "TY-14060TA": {
+        "img": ""
+      },
+      "TY-12085XEV": {
+        "img": ""
+      }
+    }
+  },
+  "Top Tube Bag / Frame bag": {
+    "TY-09133A-13": {
+      "img": ""
+    },
+    "TY-03134AL": {
+      "img": ""
+    }
+  },
+  "Trunk bag": {
+    "Waterproof collection": {
+      "WR-062992": {
+        "img": ""
+      },
+      "WR-1392H-23": {
+        "img": ""
+      }
+    },
+    "Standard collection": {
+      "TK-1392H-C": {
+        "img": ""
+      },
+      "TY-092992": {
+        "img": ""
+      },
+      "TY-062992": {
+        "img": ""
+      },
+      "TK-1291": {
+        "img": ""
+      },
+      "RK-1291E": {
+        "img": ""
+      },
+      "TK-1291P-23": {
+        "img": ""
+      }
+    }
+  },
+  "Pannier bag": {
+    "Waterproof collection": {
+      "WR-23960CZ": {
+        "img": ""
+      },
+      "WR-13950": {
+        "img": ""
+      },
+      "WR-03960-2": {
+        "img": ""
+      },
+      "WR-950P": {
+        "img": ""
+      },
+      "EK-09817": {
+        "img": ""
+      },
+      "MR-935WR-19A": {
+        "img": ""
+      },
+      "TR-960-23": {
+        "img": ""
+      },
+      "WR-13960": {
+        "img": ""
+      },
+      "WR-17040XL-SG": {
+        "img": ""
+      }
+    },
+    "Standard collection": {
+      "TY-06146C-40": {
+        "img": ""
+      },
+      "WR-23811": {
+        "img": ""
+      }
+    }
+  },
+  "Double pannier/Triple pannier": {
+    "Waterproof collection": {
+      "TY-03146B": {
+        "img": ""
+      },
+      "WR-09817DB-S": {
+        "img": ""
+      },
+      "TR-231003R": {
+        "img": ""
+      },
+      "WR-17040XL": {
+        "img": ""
+      }
+    },
+    "Standard collection": {
+      "TY-031003-23": {
+        "img": ""
+      },
+      "TY-031001-23": {
+        "img": ""
+      },
+      "TY-131002MPR": {
+        "img": ""
+      },
+      "WR-23811": {
+        "img": ""
+      }
+    }
+  },
+  "Messenger bag": {
+    "Waterproof collection": {
+      "WR-23816": {
+        "img": ""
+      },
+      "WR-816S-23": {
+        "img": ""
+      },
+      "S2G-11816WR-S": {
+        "img": ""
+      },
+      "S2G-817U-L": {
+        "img": ""
+      }
+    },
+    "Standard collection": {
+      "MS-07216QRN": {
+        "img": ""
+      },
+      "MS-07217QRN": {
+        "img": ""
+      }
+    }
+  },
+  "Outdoor waterproof collection": {
+    "Waterproof collection": {
+      "WR-18846B": {
+        "img": ""
+      },
+      "WR-840M-24BK": {
+        "img": ""
+      },
+      "WR-23817L": {
+        "img": ""
+      },
+      "WR-23321-S": {
+        "img": ""
+      },
+      "WR-1201": {
+        "img": ""
+      },
+      "WR-840": {
+        "img": ""
+      }
+    }
+  },
+  "Waterproof motorcycle collection": {
+    "Waterproof collection": {
+      "WR-2302-MO": {
+        "img": ""
+      },
+      "WR-004+WR-2302-MO": {
+        "img": ""
+      },
+      "WR-17040XL-MO": {
+        "img": ""
+      },
+      "WR-70128": {
+        "img": ""
+      },
+      "WR-70129": {
+        "img": ""
+      },
+      "WR-70130": {
+        "img": ""
+      },
+      "WR-70131": {
+        "img": ""
+      },
+      "WR-70132": {
+        "img": ""
+      },
+      "WR-70070": {
+        "img": ""
+      },
+      "WR-70136": {
+        "img": ""
+      },
+      "WR-70137": {
+        "img": ""
+      }
+    }
+  },
+  "Basket shopping bag & Rain cover": {
+    "Basket shopping bag": {
+    },
+    "Rain cover": {
+      "RCE-1291E-WR": {
+        "img": ""
+      },
+      "CR-HM-01-TPU": {
+        "img": ""
+      },
+      "CR-01": {
+        "img": ""
+      },
+      "CR-01L": {
+        "img": ""
+      },
+      "TY-RCE-210": {
+        "img": ""
+      },
+      "TY-RCE-230": {
+        "img": ""
+      },
+      "CR-SR01": {
+        "img": ""
+      }
+    }
+  },
+  "Wheel bag, Bike bag and Bike cover": {
+    "Wheel bag": {
+      "TY-56BDM-2CM": {
+        "img": ""
+      },
+      "TY-56BDL-29": {
+        "img": ""
+      },
+      "TY-56BL-29": {
+        "img": ""
+      }
+    },
+    "Bike bag": {
+      "PL-001": {
+        "img": ""
+      },
+      "CT-001-13": {
+        "img": ""
+      }
+    },
+    "Bike cover": {
+      "TY-05558B": {
+        "img": ""
+      },
+      "TY-58B": {
+        "img": ""
+      }
+    }
+  },
+  "system": {
+    "Handlebar": {
+      "SP2": {
+        "img": "https://yasu0304.github.io/konnix/img/products/system/handlebar/SP2/SP2.jpg"
+      },
+      "E-SP2": {
+        "img": "https://yasu0304.github.io/konnix/img/products/system/handlebar/E-SP2/E-SP2.jpg"
+      },
+      "Cradle": {
+        "img": "https://yasu0304.github.io/konnix/img/products/system/handlebar/Cradle/Cradle.jpg"
+      },
+      "3PMTS+Easy pull": {
+        "img": "https://yasu0304.github.io/konnix/img/products/system/handlebar/3PMTS+Easy%20pull/3PMTS+Easy%20pull-1.jpg"
+      },
+      "E-SP4": {
+        "img": "https://yasu0304.github.io/konnix/img/products/system/handlebar/E-SP4/E-SP4.jpg"
+      }
+    },
+    "Saddle bag": {
+      "QR2": {
+        "img": "https://yasu0304.github.io/konnix/img/products/system/saddle_bag/QR2/QR2-1.jpg"
+      },
+      "QR3": {
+        "img": "https://yasu0304.github.io/konnix/img/products/system/saddle_bag/QR3/QR3-1.jpg"
+      },
+      "QR6": {
+        "img": "https://yasu0304.github.io/konnix/img/products/system/saddle_bag/QR6/QR6.jpg"
+      }
+    },
+    "Handy bag": {
+      "SPH01": {
+        "img": "https://yasu0304.github.io/konnix/img/products/system/saddle_bag/T-Bar/T-Bar-1.jpg"
+      },
+      "SPH02": {
+        "img": "https://yasu0304.github.io/konnix/img/products/system/handy_bag/SPH01/SPH01-1.jpg"
+      },
+      "SPH03": {
+        "img": "https://yasu0304.github.io/konnix/img/products/system/handy_bag/SPH03/SPH03.jpg"
+      }
+    },
+    "Cage": {
+      "CG-01": {
+        "img": "https://yasu0304.github.io/konnix/img/products/system/cage/CG-01/CG-01-01.jpg"
+      }
+    },
+    "Pannier": {
+      "QRT": {
+        "img": "https://yasu0304.github.io/konnix/img/products/system/pannier/QRT/QRT.jpg"
+      },
+      "T-19": {
+        "img": "https://yasu0304.github.io/konnix/img/products/system/pannier/T-19/T-19.jpg"
+      },
+      "R&K": {
+        "img": "https://yasu0304.github.io/konnix/img/products/system/pannier/R&K/R&K.jpg"
+      },
+      "T-06": {
+        "img": "https://yasu0304.github.io/konnix/img/products/system/pannier/T-06/T-06.jpg"
+      },
+      "Hook 05": {
+        "img": "https://yasu0304.github.io/konnix/img/products/system/pannier/Hook%2005/Hook%2005.jpg"
+      }
+    },
+    "Trunk bag": {
+      "QRS-01": {
+        "img": "https://yasu0304.github.io/konnix/img/products/system/trunk_bag/QRS-01/QRS-01.jpg"
+      }
+    },
+    "Messenger bag": {
+      "Rack click 02": {
+        "img": "https://yasu0304.github.io/konnix/img/products/system/messenger_bag/Rack%20click%2002/Rack%20click%2002.jpg"
+      }
+    }
+  }
+}

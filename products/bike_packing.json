@@ -16,16 +16,5 @@
       "WR-15840K Size: 12.5 x 12.5 x 27cm",
       "WR-15840KL Size: 17 x 17 x 15cm"
     ]
-  },
-  "WR-15840K-V": {
-    "title": "WR-15840K-V",
-    "type": "cage_bag",
-    "img": [
-      "./img/products/bike_packing/cage_bag/WR-15840K/WR-15840K-V.jpg"
-    ],
-    "text": [
-      "To have air valve also available",
-      "Size: 12.5 x 12.5 x 27cm"
-    ]
   }
 }

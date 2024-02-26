@@ -82,7 +82,7 @@
             <div class="col-12 col-sm-6 mb-3">
                 <div style="--swiper-navigation-color: #fff; --swiper-pagination-color: #fff;"
                      class="swiper mySwiper2 mb-3">
-                    <div class="swiper-wrapper">
+                    <div id="main-image" class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div>
                                 <div class="cardEquip"
@@ -94,7 +94,7 @@
                     <div class="swiper-button-prev"></div>
                 </div>
                 <div thumbsSlider="" class="swiper mySwiper ">
-                    <div class="swiper-wrapper">
+                    <div id="slide-image" class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div>
                                 <div class="cardEquip"
@@ -213,6 +213,34 @@
                         contentHtml += `<p class="textIndent"><i class="bi bi-caret-right-fill" style="font-size: 8pt;"></i>` + text + `</p>`;
                     });
                     document.getElementById("content").innerHTML = contentHtml;
+
+                    let mainImageHtml = "";
+                    let slideImageHtml = "";
+                    let index = 0;
+                    dataInfo.img.forEach((image) => {
+                        mainImageHtml += `<div class="swiper-slide">`
+                        mainImageHtml += `<div>`
+                        mainImageHtml += `<div class="cardEquip" style="background-image: url('` + image + `');"></div>`
+                        mainImageHtml += `</div>`
+                        mainImageHtml += `</div>`
+                        mainImageHtml += `<div class="swiper-slide">`
+
+                        slideImageHtml += `<div class="swiper-slide">`
+                        slideImageHtml += `<div>`
+                        slideImageHtml += `<div class="cardEquip" style="background-image: url('` + image + `');"></div>`
+                        slideImageHtml += `</div>`
+                        slideImageHtml += `</div>`
+                        slideImageHtml += `<div class="swiper-slide">`
+                        index++;
+                    });
+
+                    document.getElementById("main-image").innerHTML = mainImageHtml;
+                    if (index == 1) {
+                        document.getElementById("slide-image").innerHTML = "";
+                    } else {
+                        document.getElementById("slide-image").innerHTML = slideImageHtml;
+                    }
+
                 }
             })
         }
