@@ -1,31 +1,180 @@
 {
-  "WR-15840K": {
-    "title": "WR-15840K",
-    "type": "cage_bag",
+  "WR-23960CZ": {
+    "title": "WR-23960CZ",
+    "type": "",
     "img": [
-      "./img/products/bike_packing/cage_bag/WR-15840K/WR-15840K.jpg"
+      "https://yasu0304.github.io/konnix/img/products/pannier_bag/waterproof_collection/WR-23960CZ/WR-23960CZ-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/pannier_bag/waterproof_collection/WR-23960CZ/WR-23960CZ-2.jpg"
     ],
     "text": [
-      "Bike packingFront Fork bag",
-      "ECO waterproof fabric finished",
-      "Top roll down closing with buckle fasten.",
-      "With New system Cage install on the fork tube.",
-      "Available with several installations, bolts / clamp / cable tie.",
-      "2 extra strap go around the bag tight into the cage with ladder lock.",
-      "2 size option,",
-      "WR-15840K Size: 12.5 x 12.5 x 27cm",
-      "WR-15840KL Size: 17 x 17 x 15cm"
+      "Waterproof finished pannier bag,",
+      "With QR system fastening on the rear rack. Handle including.",
+      "Front with reflective patch, two sides with reflective safety care.",
+      "Extra WR zipper on the top of front panel. Top roll closing with buckle.",
+      "Inner with padding bag for Laptop. Without top cover.",
+      "Shoulder strap including.",
+      "Size: 33 x 17 x 41 cm"
     ]
   },
-  "WR-15840K-V": {
-    "title": "WR-15840K-V",
-    "type": "cage_bag",
+  "WR-13950": {
+    "title": "WR-13950",
+    "type": "",
     "img": [
-      "./img/products/bike_packing/cage_bag/WR-15840K/WR-15840K-V.jpg"
+      "https://yasu0304.github.io/konnix/img/products/pannier_bag/waterproof_collection/WR-13950/WR-13950.jpg"
     ],
     "text": [
-      "To have air valve also available",
-      "Size: 12.5 x 12.5 x 27cm"
+      "ECO environment Friendly Fabric",
+      "Dry Waterproof Finished design",
+      "With Quick Released system",
+      "With Handle, Top cover side released buckle",
+      "Reflective Patch for safety care",
+      "Inner office documentary pocket",
+      "Size: 31 x 16.5 x 38 cm"
+    ]
+  },
+  "WR-03960-2": {
+    "title": "WR-03960-2",
+    "type": "",
+    "img": [
+      ""
+    ],
+    "text": [
+      "Waterproof finished pannier bag,",
+      "With QR system fastening on the rear rack.",
+      "Handle including.Top flap cover with inside mesh pocket.",
+      "Two side with reflective safety care.",
+      "Top roll closing with buckle. With extra corner protectors.",
+      "Shoulder strap including.",
+      "Size: 36 x 15.5 x 38 cm"
+    ]
+  },
+  "WR-950P": {
+    "title": "WR-950P",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/pannier_bag/waterproof_collection/WR-950P/WR-950P-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/pannier_bag/waterproof_collection/WR-950P/WR-950P-2.jpg"
+    ],
+    "text": [
+      "Tarpaulin Material",
+      "With Quick Released system",
+      "With Handle, Top cover side released buckle",
+      "Reflective Patch for safety care",
+      "Top Flap inner Mesh Pocket with Zipper",
+      "Size: 38 x 15 x 34 cm"
+    ]
+  },
+  "EK-09817": {
+    "title": "EK-09817",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/pannier_bag/waterproof_collection/EK-09817/EK-09817-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/pannier_bag/waterproof_collection/EK-09817/EK-09817-2.jpg"
+    ],
+    "text": [
+      "Waterproof finished pannier bag.",
+      "ECO fabric waterproof collection.",
+      "With QR system fastening on the rear rack.",
+      "Handle including.Top roll closing with strong velcro .",
+      "With extra corner protectors.Top handle attached .",
+      "Reflective safety care patch including.",
+      "Size: 32.5 x 12 x 36cm"
+    ]
+  },
+  "MR-935WR-19A": {
+    "title": "MR-935WR-19A",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/pannier_bag/waterproof_collection/MR-935WR-19A/MR-935WR-19A-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/pannier_bag/waterproof_collection/MR-935WR-19A/MR-935WR-19A-2.jpg"
+    ],
+    "text": [
+      "Waterproof finished pannier bag.",
+      "ECO fabric waterproof collection.",
+      "With simple hooks set for fastening with rack.",
+      "Side with reflective security patch.",
+      "Top roll closing with webbing buckle.",
+      "Size: 25 x 12 x 29.5 cm"
+    ]
+  },
+  "TR-960-23": {
+    "title": "TR-960-23",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/pannier_bag/waterproof_collection/TR-960-23/TR-960-23-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/pannier_bag/waterproof_collection/TR-960-23/TR-960-23-2.jpg"
+    ],
+    "text": [
+      "Urban Rear Pannier Bag",
+      "Outer stitching finished design",
+      "Roll down closing system",
+      "Front zipper pocket",
+      "Inner Waterproof finished Bag",
+      "Reflective security care",
+      "Quick Release system with Handle",
+      "Size: 29 x 17.5 x 39 cm"
+    ]
+  },
+  "WR-13960": {
+    "title": "WR-13960",
+    "type": "waterproof collection",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/pannier_bag/waterproof_collection/WR-13960/WR-13960.jpg"
+    ],
+    "text": [
+      "Standard Waterproof finished pannier bag.",
+      "Without top cover, two side reflective safety care.",
+      "With QR system fastening on the rear rack.",
+      "Handle including.Top roll closing with strong velcro .",
+      "With extra corner protectors. Shoulder strap including.",
+      "Size: 32 x 16.5 x 38 cm"
+    ]
+  },
+  "WR-17040XL-SG": {
+    "title": "WR-17040XL-SG",
+    "type": "waterproof collection",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/pannier_bag/waterproof_collection/WR-17040XL-SG/WR-17040XL-SG-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/pannier_bag/waterproof_collection/WR-17040XL-SG/WR-17040XL-SG-2.jpg"
+    ],
+    "text": [
+      "Extra large Cargo Bike pannier bag design, Waterproof finished.",
+      "Standard Hooks system fastening on the rack of bike.",
+      "Top flap cover including, top roll closing with buckle.",
+      "2 alloy hook attached fixing the flap cover on the bag.",
+      "Inner with strong plastic sheet support attached.",
+      "With extra corner protectors.Top handle attached .",
+      "Reflective safety care patch including.",
+      "Size: 38 x 17.5 x 29 cm"
+    ]
+  },
+  "TY-06146C-40": {
+    "title": "TY-06146C-40",
+    "type": "standard collection",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/pannier_bag/standard_collection/TY-06146C-40/TY-06146C-40-1.jpg"
+    ],
+    "text": [
+      "Rear Pannier bag , single pc",
+      "Elastic bending , 2 side release buckle",
+      "Reflective Security care",
+      "Rear Side zipper pocket attached",
+      "Rain Cover included",
+      "Size: 40.5 x 17.5 x 40.5 cm ( single PC)"
+    ]
+  },
+  "TY-03146B": {
+    "title": "TY-03146B",
+    "type": "standard collection",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/pannier_bag/standard_collection/TY-03146B/TY-03146B-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/pannier_bag/standard_collection/TY-03146B/TY-03146B-2.jpg"
+    ],
+    "text": [
+      "Rear Rack bag with Q.R system",
+      "W/rain cover & light loop system",
+      "Reflective strip, top mesh pocket",
+      "Size: 40.5 x 17.5 x 40.5cm"
     ]
   }
 }
