@@ -1,31 +1,95 @@
 {
-  "WR-15840K": {
-    "title": "WR-15840K",
-    "type": "cage_bag",
+  "MS-07217QRN": {
+    "title": "MS-07217QRN",
+    "type": "standard_collection",
     "img": [
-      "./img/products/bike_packing/cage_bag/WR-15840K/WR-15840K.jpg"
+      "./img/products/messenger_bag/standard_collection/MS-07217QRN/MS-07217QRN.jpg"
     ],
     "text": [
-      "Bike packingFront Fork bag",
-      "ECO waterproof fabric finished",
-      "Top roll down closing with buckle fasten.",
-      "With New system Cage install on the fork tube.",
-      "Available with several installations, bolts / clamp / cable tie.",
-      "2 extra strap go around the bag tight into the cage with ladder lock.",
-      "2 size option,",
-      "WR-15840K Size: 12.5 x 12.5 x 27cm",
-      "WR-15840KL Size: 17 x 17 x 15cm"
+      "Office Messenger Bag with QR bracket",
+      "Strong Plastic sheet support the QR system",
+      "QR system with extra zipper cover over",
+      "inner with extra large pocket for laptop storage",
+      "Reflective security Care ,",
+      "Shoulder strap attached, removable",
+      "Size: 40 x 10 x 30 cm"
     ]
   },
-  "WR-15840K-V": {
-    "title": "WR-15840K-V",
-    "type": "cage_bag",
+  "MS-07216QRN": {
+    "title": "MS-07216QRN",
+    "type": "standard_collection",
     "img": [
-      "./img/products/bike_packing/cage_bag/WR-15840K/WR-15840K-V.jpg"
+      "./img/products/messenger_bag/standard_collection/MS-07216QRN/MS-07216QRN.jpg"
     ],
     "text": [
-      "To have air valve also available",
-      "Size: 12.5 x 12.5 x 27cm"
+      "Office Messenger Bag with QR bracket",
+      "Strong Plastic sheet support the QR system",
+      "QR system with extra zipper cover over",
+      "inner with extra large pocket for laptop storage",
+      "Reflective security Care ,",
+      "Shoulder strap attached, removable",
+      "Size: 40 x 10 x 30 cm"
+    ]
+  },
+  "S2G-817U-L": {
+    "title": "S2G-817U-L",
+    "type": "waterproof collection",
+    "img": [
+      "./img/products/messenger_bag/waterproof_collection/S2G-817U-L/S2G-817U-L.jpg"
+    ],
+    "text": [
+      "Waterproof Rucksack with Easy Pull system",
+      "fitting on the Bike Rack , available for E-Bike Rack",
+      "EVA foam padding back support",
+      "H.D Foam for shoulder padding",
+      "Size: 32.5 x 12 x 48 cm"
+    ]
+  },
+  "S2G-11816WR-S": {
+    "title": "S2G-11816WR-S",
+    "type": "waterproof collection",
+    "img": [
+      "./img/products/messenger_bag/waterproof_collection/S2G-11816WR-S/S2G-11816WR-S.jpg"
+    ],
+    "text": [
+      "Messenger Bag with S2G system",
+      "Easy Pull fit with Rack Click , available for fitting E.Bike rack",
+      "System hold in position not slide on the rack",
+      "Handle Strap attached",
+      "Size: 38 x 12 x 36cm"
+    ]
+  },
+  "WR-816S-23": {
+    "title": "WR-816S-23",
+    "type": "waterproof collection",
+    "img": [
+      "./img/products/messenger_bag/waterproof_collection/WR-816S-23/WR-816S-23-1.jpg",
+      "./img/products/messenger_bag/waterproof_collection/WR-816S-23/WR-816S-23-2.jpg"
+    ],
+    "text": [
+      "Waterproof Messenger Bag ECO fabric",
+      "Inner with foaming bag for Laptop",
+      "Shoulder strap adjustable",
+      "Velcro closing, foaming handle",
+      "Size: 34 x 12 x 26 cm"
+    ]
+  },
+  "WR-23816": {
+    "title": "WR-23816",
+    "type": "waterproof collection",
+    "img": [
+      "./img/products/messenger_bag/waterproof_collection/WR-23816/WR-23816-1.jpg",
+      "./img/products/messenger_bag/waterproof_collection/WR-23816/WR-23816-2.jpg"
+    ],
+    "text": [
+      "ECO fabric finished handlebar bag",
+      "Inner with Waterproof finished.",
+      "Outer design with stitching , Front zipper pocket.",
+      "Reflective webbing , side reflective patch.",
+      "Top roll down opening , with side released buckle closing.",
+      "Bag back panel with EVA foam molding, with SP2 bracket mount",
+      "On Handlebar. Shoulder strap including.",
+      "Size: 23.5 x 14.5 x 30cm"
     ]
   }
 }
