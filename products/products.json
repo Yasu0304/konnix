@@ -2,516 +2,516 @@
   "Bike packing": {
     "Saddle bag": {
       "WR-19818L": {
-        "img": "https://yasu0304.github.io/konnix/img/products/bike_packing/saddle_bag/WR-19818L/WR-19818L-1.jpg"
+        "img": "./img/products/bike_packing/saddle_bag/WR-19818L/WR-19818L-1.jpg"
       },
       "WR-15818L": {
-        "img": "https://yasu0304.github.io/konnix/img/products/bike_packing/saddle_bag/WR-15818L/WR-15818L.jpg"
+        "img": "./img/products/bike_packing/saddle_bag/WR-15818L/WR-15818L.jpg"
       },
       "TR-17818": {
-        "img": "https://yasu0304.github.io/konnix/img/products/bike_packing/saddle_bag/TR-17818/TR-17818-1.jpg"
+        "img": "./img/products/bike_packing/saddle_bag/TR-17818/TR-17818-1.jpg"
       }
     },
     "Handlebar bag": {
       "WR-23840HD": {
-        "img": "http://localhost:63342/konnix/img/products/bike_packing/handlebar_bag/WR-23840HD/WR-23840HD-1.jpg"
+        "img": "./img/products/bike_packing/handlebar_bag/WR-23840HD/WR-23840HD-1.jpg"
       },
       "WR-23840HD-V-WOQ": {
-        "img": "http://localhost:63342/konnix/img/products/bike_packing/handlebar_bag/WR-23840HD-V-WOQ/WR-23840HD-V-WOQ-1.jpg"
+        "img": "./img/products/bike_packing/handlebar_bag/WR-23840HD-V-WOQ/WR-23840HD-V-WOQ-1.jpg"
       },
       "WR-09107R": {
-        "img": "http://localhost:63342/konnix/img/products/bike_packing/handlebar_bag/WR-09107R/WR-09107R.jpg"
+        "img": "./img/products/bike_packing/handlebar_bag/WR-09107R/WR-09107R.jpg"
       },
       "WR-16840": {
-        "img": "http://localhost:63342/konnix/img/products/bike_packing/handlebar_bag/WR-16840/WR-16840-1.jpg"
+        "img": "./img/products/bike_packing/handlebar_bag/WR-16840/WR-16840-1.jpg"
       },
       "WR-15840HD-23": {
-        "img": "http://localhost:63342/konnix/img/products/bike_packing/handlebar_bag/WR-15840HD-23/WR-15840HD-23-1.jpg"
+        "img": "./img/products/bike_packing/handlebar_bag/WR-15840HD-23/WR-15840HD-23-1.jpg"
       },
       "WR-0709L": {
-        "img": "http://localhost:63342/konnix/img/products/bike_packing/handlebar_bag/WR-0709L/WR-0709L-1.jpg"
+        "img": "./img/products/bike_packing/handlebar_bag/WR-0709L/WR-0709L-1.jpg"
       },
       "TY-09107R-22N": {
-        "img": "http://localhost:63342/konnix/img/products/bike_packing/handlebar_bag/TY-09107R-22N/TY-09107R-22N-1.jpg"
+        "img": "./img/products/bike_packing/handlebar_bag/TY-09107R-22N/TY-09107R-22N-1.jpg"
       }
     },
     "Frame bag": {
       "WR-17133L1": {
-        "img": "http://localhost:63342/konnix/img/products/bike_packing/frame_bag/WR-17133L1/WR-17133L1-1.jpg"
+        "img": "./img/products/bike_packing/frame_bag/WR-17133L1/WR-17133L1-1.jpg"
       },
       "WR-15133M-23A": {
-        "img": "http://localhost:63342/konnix/img/products/bike_packing/frame_bag/WR-15133M-23A/WR-15133M-23A-1.jpg"
+        "img": "./img/products/bike_packing/frame_bag/WR-15133M-23A/WR-15133M-23A-1.jpg"
       },
       "WR-16133M-23A": {
-        "img": "http://localhost:63342/konnix/img/products/bike_packing/frame_bag/WR-16133M-23A/WR-16133M-23A-1.jpg"
+        "img": "./img/products/bike_packing/frame_bag/WR-16133M-23A/WR-16133M-23A-1.jpg"
       },
       "WR-17133XS": {
-        "img": "http://localhost:63342/konnix/img/products/bike_packing/frame_bag/WR-17133XS/WR-17133XS.jpg"
+        "img": "./img/products/bike_packing/frame_bag/WR-17133XS/WR-17133XS.jpg"
       },
       "WR-17133XSD-C": {
-        "img": "http://localhost:63342/konnix/img/products/bike_packing/frame_bag/WR-17133XSD-C/WR-17133XSD-C.jpg"
+        "img": "./img/products/bike_packing/frame_bag/WR-17133XSD-C/WR-17133XSD-C.jpg"
       },
       "WR-17133XSF": {
-        "img": "http://localhost:63342/konnix/img/products/bike_packing/frame_bag/WR-17133XSF/WR-17133XSF-1.jpg"
+        "img": "./img/products/bike_packing/frame_bag/WR-17133XSF/WR-17133XSF-1.jpg"
       },
       "WR-16134-23": {
-        "img": "http://localhost:63342/konnix/img/products/bike_packing/frame_bag/WR-16134-23/WR-16134-23.jpg"
+        "img": "./img/products/bike_packing/frame_bag/WR-16134-23/WR-16134-23.jpg"
       }
     },
     "TOP tube bag": {
       "WR-231702L-P": {
-        "img": "http://localhost:63342/konnix/img/products/bike_packing/top_tube_bag/WR-231702L-P/WR-231702L-P-1.jpg"
+        "img": "./img/products/bike_packing/top_tube_bag/WR-231702L-P/WR-231702L-P-1.jpg"
       },
       "WR-1702L-20": {
-        "img": "http://localhost:63342/konnix/img/products/bike_packing/top_tube_bag/WR-1702L-20/WR-1702L-20-1.jpg"
+        "img": "./img/products/bike_packing/top_tube_bag/WR-1702L-20/WR-1702L-20-1.jpg"
       },
       "WR-1903L-P": {
-        "img": "http://localhost:63342/konnix/img/products/bike_packing/top_tube_bag/WR-1903L-P/WR-1903L-P-1.jpg"
+        "img": "./img/products/bike_packing/top_tube_bag/WR-1903L-P/WR-1903L-P-1.jpg"
       },
       "WR-23709-P": {
-        "img": "http://localhost:63342/konnix/img/products/bike_packing/top_tube_bag/WR-23709-P/WR-23709-P.jpg"
+        "img": "./img/products/bike_packing/top_tube_bag/WR-23709-P/WR-23709-P.jpg"
       }
     },
     "Cage bag": {
       "WR-15840K": {
-        "img": "http://localhost:63342/konnix/img/products/bike_packing/cage_bag/WR-15840K/WR-15840K.jpg"
+        "img": "./img/products/bike_packing/cage_bag/WR-15840K/WR-15840K.jpg"
       },
       "WR-15840K-V": {
-        "img": "http://localhost:63342/konnix/img/products/bike_packing/cage_bag/WR-15840K-V/WR-15840K-V.jpg"
+        "img": "./img/products/bike_packing/cage_bag/WR-15840K-V/WR-15840K-V.jpg"
       },
       "WR-15840KL-V": {
-        "img": "http://localhost:63342/konnix/img/products/bike_packing/cage_bag/WR-15840KL-V/WR-15840KL-V-1.jpg"
+        "img": "./img/products/bike_packing/cage_bag/WR-15840KL-V/WR-15840KL-V-1.jpg"
       },
       "WR-70128LZ": {
-        "img": "http://localhost:63342/konnix/img/products/bike_packing/cage_bag/WR-70128LZ/WR-70128LZ.jpg"
+        "img": "./img/products/bike_packing/cage_bag/WR-70128LZ/WR-70128LZ.jpg"
       }
     }
   },
   "Handlebar bag": {
     "Waterproof collection": {
       "WR-23811": {
-        "img": "https://yasu0304.github.io/konnix/img/products/handlebar_bag/waterproof_collection/WR-23811/WR-23811.jpg"
+        "img": "./img/products/handlebar_bag/waterproof_collection/WR-23811/WR-23811.jpg"
       },
       "TR-811-20": {
-        "img": "https://yasu0304.github.io/konnix/img/products/handlebar_bag/waterproof_collection/TR-811-20/TR-811-20-1.jpg"
+        "img": "./img/products/handlebar_bag/waterproof_collection/TR-811-20/TR-811-20-1.jpg"
       }
     },
     "Standard collection": {
       "TY-0905R-i": {
-        "img": "https://yasu0304.github.io/konnix/img/products/handlebar_bag/standard_collection/TY-0905R-i/TY-0905R-i.jpg"
+        "img": "./img/products/handlebar_bag/standard_collection/TY-0905R-i/TY-0905R-i.jpg"
       },
       "TY-0905R": {
-        "img": "https://yasu0304.github.io/konnix/img/products/handlebar_bag/standard_collection/TY-0905R/TY-0905R.jpg"
+        "img": "./img/products/handlebar_bag/standard_collection/TY-0905R/TY-0905R.jpg"
       },
       "TY-11050XL": {
-        "img": "https://yasu0304.github.io/konnix/img/products/handlebar_bag/standard_collection/TY-11050XL/TY-11050XL.jpg"
+        "img": "./img/products/handlebar_bag/standard_collection/TY-11050XL/TY-11050XL.jpg"
       },
       "TY-00049R-23": {
-        "img": "https://yasu0304.github.io/konnix/img/products/handlebar_bag/standard_collection/TY-00049R-23/TY-00049R-23.jpg"
+        "img": "./img/products/handlebar_bag/standard_collection/TY-00049R-23/TY-00049R-23.jpg"
       },
       "TY-95049TR": {
-        "img": "https://yasu0304.github.io/konnix/img/products/handlebar_bag/standard_collection/TY-95049TR/TY-95049TR.jpg"
+        "img": "./img/products/handlebar_bag/standard_collection/TY-95049TR/TY-95049TR.jpg"
       },
       "TY-16149FM": {
-        "img": "https://yasu0304.github.io/konnix/img/products/handlebar_bag/standard_collection/TY-16149FM/TY-16149FM.jpg"
+        "img": "./img/products/handlebar_bag/standard_collection/TY-16149FM/TY-16149FM.jpg"
       }
     }
   },
   "i-Touch bag": {
     "WR-820-15+": {
-      "img": "http://localhost:63342/konnix/img/products/i-touch_bag/WR-820-15+/WR-820-15+.jpg"
+      "img": "./img/products/i-touch_bag/WR-820-15+/WR-820-15+.jpg"
     },
     "WR-23854-15+": {
-      "img": "http://localhost:63342/konnix/img/products/i-touch_bag/WR-23854-15+/WR-23854-15+.jpg"
+      "img": "./img/products/i-touch_bag/WR-23854-15+/WR-23854-15+.jpg"
     },
     "WR-17071": {
-      "img": "http://localhost:63342/konnix/img/products/i-touch_bag/WR-17071/WR-17071-1.jpg"
+      "img": "./img/products/i-touch_bag/WR-17071/WR-17071-1.jpg"
     },
     "TY-10071EV-R": {
-      "img": "http://localhost:63342/konnix/img/products/i-touch_bag/TY-10071EV-R/TY-10071EV-R-1.jpg"
+      "img": "./img/products/i-touch_bag/TY-10071EV-R/TY-10071EV-R-1.jpg"
     }
   },
   "Saddle bag": {
     "Waterproof collection": {
       "WR-20040V-23": {
-        "img": "http://localhost:63342/konnix/img/products/saddle_bag/waterproof_collection/WR-20040V-23/WR-20040V-23-1.jpg"
+        "img": "./img/products/saddle_bag/waterproof_collection/WR-20040V-23/WR-20040V-23-1.jpg"
       },
       "WR-20070V-23": {
-        "img": "http://localhost:63342/konnix/img/products/saddle_bag/waterproof_collection/WR-20070V-23/WR-20070V-23-1.jpg"
+        "img": "./img/products/saddle_bag/waterproof_collection/WR-20070V-23/WR-20070V-23-1.jpg"
       },
       "WR-14818U-M1V": {
-        "img": "http://localhost:63342/konnix/img/products//saddle_bag/waterproof_collection/WR-14818U-M1V/WR-14818U-M1V-1.jpg"
+        "img": "./img/products//saddle_bag/waterproof_collection/WR-14818U-M1V/WR-14818U-M1V-1.jpg"
       },
       "WR-23818L": {
-        "img": "http://localhost:63342/konnix/img/products/saddle_bag/waterproof_collection/WR-23818L/WR-23818L.jpg"
+        "img": "./img/products/saddle_bag/waterproof_collection/WR-23818L/WR-23818L.jpg"
       },
       "WR-07120RV": {
-        "img": "http://localhost:63342/konnix/img/products/saddle_bag/waterproof_collection/WR-07120RV/WR-07120RV-1.jpg"
+        "img": "./img/products/saddle_bag/waterproof_collection/WR-07120RV/WR-07120RV-1.jpg"
       },
       "WR-18818L": {
-        "img": "http://localhost:63342/konnix/img/products/saddle_bag/waterproof_collection/WR-18818L/WR-18818L.jpg"
+        "img": "./img/products/saddle_bag/waterproof_collection/WR-18818L/WR-18818L.jpg"
       },
       "WR-18818S": {
-        "img": "http://localhost:63342/konnix/img/products/saddle_bag/waterproof_collection/WR-18818S/WR-18818S.jpg"
+        "img": "./img/products/saddle_bag/waterproof_collection/WR-18818S/WR-18818S.jpg"
       },
       "WR-818S": {
-        "img": "http://localhost:63342/konnix/img/products/saddle_bag/waterproof_collection/WR-818S/WR-818S.jpg"
+        "img": "./img/products/saddle_bag/waterproof_collection/WR-818S/WR-818S.jpg"
       }
     },
     "Standard collection": {
       "RF-12025RV1-M": {
-        "img": "http://localhost:63342/konnix/img/products/saddle_bag/standard_collection/RF-12025RV1-M/RF-12025RV1-M-1.jpg"
+        "img": "./img/products/saddle_bag/standard_collection/RF-12025RV1-M/RF-12025RV1-M-1.jpg"
       },
       "TY-14065L": {
-        "img": "http://localhost:63342/konnix/img/products/saddle_bag/standard_collection/TY-14065L/TY-14065L-1.jpg"
+        "img": "./img/products/saddle_bag/standard_collection/TY-14065L/TY-14065L-1.jpg"
       },
       "TY-1670FV-M": {
-        "img": "http://localhost:63342/konnix/img/products/saddle_bag/standard_collection/TY-1670FV-M/TY-1670FV-M-1.jpg"
+        "img": "./img/products/saddle_bag/standard_collection/TY-1670FV-M/TY-1670FV-M-1.jpg"
       },
       "TY-16025WB": {
-        "img": "http://localhost:63342/konnix/img/products/saddle_bag/standard_collection/TY-16025WB/TY-16025WB.jpg"
+        "img": "./img/products/saddle_bag/standard_collection/TY-16025WB/TY-16025WB.jpg"
       },
       "TY-14060TA": {
-        "img": "http://localhost:63342/konnix/img/products/saddle_bag/standard_collection/TY-14060TA/TY-14060TA-1.jpg"
+        "img": "./img/products/saddle_bag/standard_collection/TY-14060TA/TY-14060TA-1.jpg"
       },
       "TY-12085XEV": {
-        "img": "http://localhost:63342/konnix/img/products/saddle_bag/standard_collection/TY-12085XEV/TY-12085XEV-1.jpg"
+        "img": "./img/products/saddle_bag/standard_collection/TY-12085XEV/TY-12085XEV-1.jpg"
       }
     }
   },
   "Top Tube Bag / Frame bag": {
     "TY-09133A-13": {
-      "img": "http://localhost:63342/konnix/img/products/frame_bag/TY-09133A-13/TY-09133A-13-1.jpg"
+      "img": "./img/products/frame_bag/TY-09133A-13/TY-09133A-13-1.jpg"
     },
     "TY-03134AL": {
-      "img": "http://localhost:63342/konnix/img/products/frame_bag/TY-03134AL/TY-03134AL.jpg"
+      "img": "./img/products/frame_bag/TY-03134AL/TY-03134AL.jpg"
     }
   },
   "Trunk bag": {
     "Waterproof collection": {
       "WR-062992": {
-        "img": "http://localhost:63342/konnix/img/products/trunk_bag/waterproof_collection/WR-062992/WR-062992-1.jpg"
+        "img": "./img/products/trunk_bag/waterproof_collection/WR-062992/WR-062992-1.jpg"
       },
       "WR-1392H-23": {
-        "img": "http://localhost:63342/konnix/img/products/trunk_bag/waterproof_collection/WR-1392H-23/WR-1392H-23.jpg"
+        "img": "./img/products/trunk_bag/waterproof_collection/WR-1392H-23/WR-1392H-23.jpg"
       }
     },
     "Standard collection": {
       "TK-1392H-C": {
-        "img": "http://localhost:63342/konnix/img/products/trunk_bag/standard_collection/TK-1392H-C/TK-1392H-C.jpg"
+        "img": "./img/products/trunk_bag/standard_collection/TK-1392H-C/TK-1392H-C.jpg"
       },
       "TY-092992": {
-        "img": "http://localhost:63342/konnix/img/products/trunk_bag/standard_collection/TY-092992/TY-092992-1.jpg"
+        "img": "./img/products/trunk_bag/standard_collection/TY-092992/TY-092992-1.jpg"
       },
       "TY-062992": {
-        "img": "http://localhost:63342/konnix/img/products/trunk_bag/standard_collection/TY-062992/TY-062992-1.jpg"
+        "img": "./img/products/trunk_bag/standard_collection/TY-062992/TY-062992-1.jpg"
       },
       "TK-1291": {
-        "img": "http://localhost:63342/konnix/img/products/trunk_bag/standard_collection/TK-1291/TK-1291.jpg"
+        "img": "./img/products/trunk_bag/standard_collection/TK-1291/TK-1291.jpg"
       },
       "RK-1291E": {
-        "img": "http://localhost:63342/konnix/img/products/trunk_bag/standard_collection/RK-1291E/RK-1291E-1.jpg"
+        "img": "./img/products/trunk_bag/standard_collection/RK-1291E/RK-1291E-1.jpg"
       },
       "TK-1291P-23": {
-        "img": "http://localhost:63342/konnix/img/products/trunk_bag/standard_collection/TK-1291P-23/TK-1291P-23.jpg"
+        "img": "./img/products/trunk_bag/standard_collection/TK-1291P-23/TK-1291P-23.jpg"
       }
     }
   },
   "Pannier bag": {
     "Waterproof collection": {
       "WR-23960CZ": {
-        "img": "http://localhost:63342/konnix/img/products/pannier_bag/waterproof_collection/WR-23960CZ/WR-23960CZ-1.jpg"
+        "img": "./img/products/pannier_bag/waterproof_collection/WR-23960CZ/WR-23960CZ-1.jpg"
       },
       "WR-13950": {
-        "img": "http://localhost:63342/konnix/img/products/pannier_bag/waterproof_collection/WR-13950/WR-13950.jpg"
+        "img": "./img/products/pannier_bag/waterproof_collection/WR-13950/WR-13950.jpg"
       },
       "WR-03960-2": {
-        "img": "http://localhost:63342/konnix/img/products/pannier_bag/waterproof_collection/WR-03960-2/WR-03960-2-1.jpg"
+        "img": "./img/products/pannier_bag/waterproof_collection/WR-03960-2/WR-03960-2-1.jpg"
       },
       "WR-950P": {
-        "img": "http://localhost:63342/konnix/img/products/pannier_bag/waterproof_collection/WR-950P/WR-950P-1.jpg"
+        "img": "./img/products/pannier_bag/waterproof_collection/WR-950P/WR-950P-1.jpg"
       },
       "EK-09817": {
-        "img": "http://localhost:63342/konnix/img/products/pannier_bag/waterproof_collection/EK-09817/EK-09817-1.jpg"
+        "img": "./img/products/pannier_bag/waterproof_collection/EK-09817/EK-09817-1.jpg"
       },
       "MR-935WR-19A": {
-        "img": "http://localhost:63342/konnix/img/products/pannier_bag/waterproof_collection/MR-935WR-19A/MR-935WR-19A-1.jpg"
+        "img": "./img/products/pannier_bag/waterproof_collection/MR-935WR-19A/MR-935WR-19A-1.jpg"
       },
       "TR-960-23": {
-        "img": "http://localhost:63342/konnix/img/products/pannier_bag/waterproof_collection/TR-960-23/TR-960-23-1.jpg"
+        "img": "./img/products/pannier_bag/waterproof_collection/TR-960-23/TR-960-23-1.jpg"
       },
       "WR-13960": {
-        "img": "http://localhost:63342/konnix/img/products/pannier_bag/waterproof_collection/WR-13960/WR-13960.jpg"
+        "img": "./img/products/pannier_bag/waterproof_collection/WR-13960/WR-13960.jpg"
       },
       "WR-17040XL-SG": {
-        "img": "http://localhost:63342/konnix/img/products/pannier_bag/waterproof_collection/WR-17040XL-SG/WR-17040XL-SG-1.jpg"
+        "img": "./img/products/pannier_bag/waterproof_collection/WR-17040XL-SG/WR-17040XL-SG-1.jpg"
       }
     },
     "Standard collection": {
       "TY-06146C-40": {
-        "img": "http://localhost:63342/konnix/img/products/pannier_bag/standard_collection/TY-06146C-40/TY-06146C-40-1.jpg"
+        "img": "./img/products/pannier_bag/standard_collection/TY-06146C-40/TY-06146C-40-1.jpg"
       },
       "WR-23811": {
-        "img": "http://localhost:63342/konnix/img/products/pannier_bag/standard_collection/TY-03146B/TY-03146B-1.jpg"
+        "img": "./img/products/pannier_bag/standard_collection/TY-03146B/TY-03146B-1.jpg"
       }
     }
   },
   "Double pannier/Triple pannier": {
     "Waterproof collection": {
       "WR-09817DB-S": {
-        "img": "http://localhost:63342/konnix/img/products/double_pannier_triple_pannier/waterproof_collection/WR-09817DB-S/WR-09817DB-S.jpg"
+        "img": "./img/products/double_pannier_triple_pannier/waterproof_collection/WR-09817DB-S/WR-09817DB-S.jpg"
       },
       "TR-231003R": {
-        "img": "http://localhost:63342/konnix/img/products/double_pannier_triple_pannier/waterproof_collection/TR-231003R/TR-231003R-1.jpg"
+        "img": "./img/products/double_pannier_triple_pannier/waterproof_collection/TR-231003R/TR-231003R-1.jpg"
       },
       "WR-17040XL": {
-        "img": "http://localhost:63342/konnix/img/products/double_pannier_triple_pannier/waterproof_collection/WR-17040XL/WR-17040XL.jpg"
+        "img": "./img/products/double_pannier_triple_pannier/waterproof_collection/WR-17040XL/WR-17040XL.jpg"
       }
     },
     "Standard collection": {
       "TY-031003-23": {
-        "img": "http://localhost:63342/konnix/img/products/double_pannier_triple_pannier/standard_collection/TY-031003-23/TY-031003-23.jpg"
+        "img": "./img/products/double_pannier_triple_pannier/standard_collection/TY-031003-23/TY-031003-23.jpg"
       },
       "TY-031001-23": {
-        "img": "http://localhost:63342/konnix/img/products/double_pannier_triple_pannier/standard_collection/TY-031001-23/TY-031001-23.jpg"
+        "img": "./img/products/double_pannier_triple_pannier/standard_collection/TY-031001-23/TY-031001-23.jpg"
       },
       "TY-131002MPR": {
-        "img": "http://localhost:63342/konnix/img/products/double_pannier_triple_pannier/standard_collection/TY-131002MPR/TY-131002MPR-1.jpg"
+        "img": "./img/products/double_pannier_triple_pannier/standard_collection/TY-131002MPR/TY-131002MPR-1.jpg"
       }
     }
   },
   "Messenger bag": {
     "Waterproof collection": {
       "WR-23816": {
-        "img": "http://localhost:63342/konnix/img/products/messenger_bag/waterproof_collection/WR-23816/WR-23816-1.jpg"
+        "img": "./img/products/messenger_bag/waterproof_collection/WR-23816/WR-23816-1.jpg"
       },
       "WR-816S-23": {
-        "img": "http://localhost:63342/konnix/img/products/messenger_bag/waterproof_collection/WR-816S-23/WR-816S-23-1.jpg"
+        "img": "./img/products/messenger_bag/waterproof_collection/WR-816S-23/WR-816S-23-1.jpg"
       },
       "S2G-11816WR-S": {
-        "img": "http://localhost:63342/konnix/img/products/messenger_bag/waterproof_collection/S2G-11816WR-S/S2G-11816WR-S.jpg"
+        "img": "./img/products/messenger_bag/waterproof_collection/S2G-11816WR-S/S2G-11816WR-S.jpg"
       },
       "S2G-817U-L": {
-        "img": "http://localhost:63342/konnix/img/products/messenger_bag/waterproof_collection/S2G-817U-L/S2G-817U-L.jpg"
+        "img": "./img/products/messenger_bag/waterproof_collection/S2G-817U-L/S2G-817U-L.jpg"
       }
     },
     "Standard collection": {
       "MS-07216QRN": {
-        "img": "http://localhost:63342/konnix/img/products/messenger_bag/standard_collection/MS-07216QRN/MS-07216QRN.jpg"
+        "img": "./img/products/messenger_bag/standard_collection/MS-07216QRN/MS-07216QRN.jpg"
       },
       "MS-07217QRN": {
-        "img": "http://localhost:63342/konnix/img/products/messenger_bag/standard_collection/MS-07217QRN/MS-07217QRN.jpg"
+        "img": "./img/products/messenger_bag/standard_collection/MS-07217QRN/MS-07217QRN.jpg"
       }
     }
   },
   "Outdoor waterproof collection": {
     "Waterproof collection": {
       "WR-18846B": {
-        "img": "http://localhost:63342/konnix/img/products/outdoor_waterproof_collection/waterproof_collection/WR-18846B/WR-18846B-1.jpg"
+        "img": "./img/products/outdoor_waterproof_collection/waterproof_collection/WR-18846B/WR-18846B-1.jpg"
       },
       "WR-840M-24BK": {
-        "img": "http://localhost:63342/konnix/img/products/outdoor_waterproof_collection/waterproof_collection/WR-840M-24BK/WR-840M-24BK-1.jpg"
+        "img": "./img/products/outdoor_waterproof_collection/waterproof_collection/WR-840M-24BK/WR-840M-24BK-1.jpg"
       },
       "WR-23817L": {
-        "img": "http://localhost:63342/konnix/img/products/outdoor_waterproof_collection/waterproof_collection/WR-23817L/WR-23817L-1.jpg"
+        "img": "./img/products/outdoor_waterproof_collection/waterproof_collection/WR-23817L/WR-23817L-1.jpg"
       },
       "WR-23321-S": {
-        "img": "http://localhost:63342/konnix/img/products/outdoor_waterproof_collection/waterproof_collection/WR-23321-S/WR-23321-S-1.jpg"
+        "img": "./img/products/outdoor_waterproof_collection/waterproof_collection/WR-23321-S/WR-23321-S-1.jpg"
       },
       "WR-1201": {
-        "img": "http://localhost:63342/konnix/img/products/outdoor_waterproof_collection/waterproof_collection/WR-1201/WR-1201.jpg"
+        "img": "./img/products/outdoor_waterproof_collection/waterproof_collection/WR-1201/WR-1201.jpg"
       },
       "WR-840": {
-        "img": "http://localhost:63342/konnix/img/products/outdoor_waterproof_collection/waterproof_collection/WR-840/WR-840.jpg"
+        "img": "./img/products/outdoor_waterproof_collection/waterproof_collection/WR-840/WR-840.jpg"
       }
     }
   },
   "Waterproof motorcycle collection": {
     "Waterproof collection": {
       "WR-2302-MO": {
-        "img": "http://localhost:63342/konnix/img/products/waterproof_motorcycle_collection/waterproof_collection/WR-2302-MO/WR-2302-MO.jpg"
+        "img": "./img/products/waterproof_motorcycle_collection/waterproof_collection/WR-2302-MO/WR-2302-MO.jpg"
       },
       "WR-004+WR-2302-MO": {
-        "img": "http://localhost:63342/konnix/img/products/waterproof_motorcycle_collection/waterproof_collection/WR-004+WR-2302-MO/WR-004+WR-2302-MO.jpg"
+        "img": "./img/products/waterproof_motorcycle_collection/waterproof_collection/WR-004+WR-2302-MO/WR-004+WR-2302-MO.jpg"
       },
       "WR-17040XL-MO": {
-        "img": "http://localhost:63342/konnix/img/products/waterproof_motorcycle_collection/waterproof_collection/WR-17040XL-MO/WR-17040XL-MO.jpg"
+        "img": "./img/products/waterproof_motorcycle_collection/waterproof_collection/WR-17040XL-MO/WR-17040XL-MO.jpg"
       },
       "WR-70128": {
-        "img": "http://localhost:63342/konnix/img/products/waterproof_motorcycle_collection/waterproof_collection/WR-70128/WR-70128.jpg"
+        "img": "./img/products/waterproof_motorcycle_collection/waterproof_collection/WR-70128/WR-70128.jpg"
       },
       "WR-70129": {
-        "img": "http://localhost:63342/konnix/img/products/waterproof_motorcycle_collection/waterproof_collection/WR-70129/WR-70129.jpg"
+        "img": "./img/products/waterproof_motorcycle_collection/waterproof_collection/WR-70129/WR-70129.jpg"
       },
       "WR-70130": {
-        "img": "http://localhost:63342/konnix/img/products/waterproof_motorcycle_collection/waterproof_collection/WR-70130/WR-70130.jpg"
+        "img": "./img/products/waterproof_motorcycle_collection/waterproof_collection/WR-70130/WR-70130.jpg"
       },
       "WR-70131": {
-        "img": "http://localhost:63342/konnix/img/products/waterproof_motorcycle_collection/waterproof_collection/WR-70131/WR-70131.jpg"
+        "img": "./img/products/waterproof_motorcycle_collection/waterproof_collection/WR-70131/WR-70131.jpg"
       },
       "WR-70132": {
-        "img": "http://localhost:63342/konnix/img/products/waterproof_motorcycle_collection/waterproof_collection/WR-70132/WR-70132.jpg"
+        "img": "./img/products/waterproof_motorcycle_collection/waterproof_collection/WR-70132/WR-70132.jpg"
       },
       "WR-70070": {
-        "img": "http://localhost:63342/konnix/img/products/waterproof_motorcycle_collection/waterproof_collection/WR-70070/WR-70070.jpg"
+        "img": "./img/products/waterproof_motorcycle_collection/waterproof_collection/WR-70070/WR-70070.jpg"
       },
       "WR-70136": {
-        "img": "http://localhost:63342/konnix/img/products//waterproof_motorcycle_collection/waterproof_collection/WR-70136/WR-70136-1.jpg"
+        "img": "./img/products//waterproof_motorcycle_collection/waterproof_collection/WR-70136/WR-70136-1.jpg"
       },
       "WR-70137": {
-        "img": "http://localhost:63342/konnix/img/products/waterproof_motorcycle_collection/waterproof_collection/WR-70137/WR-70137.jpg"
+        "img": "./img/products/waterproof_motorcycle_collection/waterproof_collection/WR-70137/WR-70137.jpg"
       }
     }
   },
   "Basket shopping bag & Rain cover": {
     "Basket shopping bag": {
       "LBS-05002W-SP2": {
-        "img": "http://localhost:63342/konnix/img/products/basket_shopping_bag_rain_cover/basket_shopping_bag/LBS-05002W-SP2/LBS-05002W-SP2-1.jpg"
+        "img": "./img/products/basket_shopping_bag_rain_cover/basket_shopping_bag/LBS-05002W-SP2/LBS-05002W-SP2-1.jpg"
       },
       "BSK-23009-WB": {
-        "img": "http://localhost:63342/konnix/img/products/basket_shopping_bag_rain_cover/basket_shopping_bag/BSK-23009-WB/BSK-23009-WB-1.jpg"
+        "img": "./img/products/basket_shopping_bag_rain_cover/basket_shopping_bag/BSK-23009-WB/BSK-23009-WB-1.jpg"
       },
       "LBS-001SP2": {
-        "img": "http://localhost:63342/konnix/img/products/basket_shopping_bag_rain_cover/basket_shopping_bag/LBS-001SP2/LBS-001SP2-1.jpg"
+        "img": "./img/products/basket_shopping_bag_rain_cover/basket_shopping_bag/LBS-001SP2/LBS-001SP2-1.jpg"
       },
       "TY-4025-23": {
-        "img": "http://localhost:63342/konnix/img/products/basket_shopping_bag_rain_cover/basket_shopping_bag/TY-4025-23/TY-4025-23-1.jpg"
+        "img": "./img/products/basket_shopping_bag_rain_cover/basket_shopping_bag/TY-4025-23/TY-4025-23-1.jpg"
       },
       "SP2-0904RDV": {
-        "img": "http://localhost:63342/konnix/img/products/basket_shopping_bag_rain_cover/basket_shopping_bag/SP2-0904RDV/SP2-0904RDV.jpg"
+        "img": "./img/products/basket_shopping_bag_rain_cover/basket_shopping_bag/SP2-0904RDV/SP2-0904RDV.jpg"
       },
       "ALB-1102THR": {
-        "img": "http://localhost:63342/konnix/img/products/basket_shopping_bag_rain_cover/basket_shopping_bag/ALB-1102THR/ALB-1102THR.jpg"
+        "img": "./img/products/basket_shopping_bag_rain_cover/basket_shopping_bag/ALB-1102THR/ALB-1102THR.jpg"
       },
       "INB-12103": {
-        "img": "http://localhost:63342/konnix/img/products/basket_shopping_bag_rain_cover/basket_shopping_bag/INB-12103/INB-12103-1.jpg"
+        "img": "./img/products/basket_shopping_bag_rain_cover/basket_shopping_bag/INB-12103/INB-12103-1.jpg"
       },
       "INB-12104": {
-        "img": "http://localhost:63342/konnix/img/products/basket_shopping_bag_rain_cover/basket_shopping_bag/INB-12104/INB-12104-1.jpg"
+        "img": "./img/products/basket_shopping_bag_rain_cover/basket_shopping_bag/INB-12104/INB-12104-1.jpg"
       }
     },
     "Rain cover": {
       "RCE-1291E-WR": {
-        "img": "http://localhost:63342/konnix/img/products/basket_shopping_bag_rain_cover/rain_cover/RCE-1291E-WR/RCE-1291E-WR.jpg"
+        "img": "./img/products/basket_shopping_bag_rain_cover/rain_cover/RCE-1291E-WR/RCE-1291E-WR.jpg"
       },
       "CR-HM-01-TPU": {
-        "img": "http://localhost:63342/konnix/img/products/basket_shopping_bag_rain_cover/rain_cover/CR-HM-01-TPU/CR-HM-01-TPU.jpg"
+        "img": "./img/products/basket_shopping_bag_rain_cover/rain_cover/CR-HM-01-TPU/CR-HM-01-TPU.jpg"
       },
       "CR-01": {
-        "img": "http://localhost:63342/konnix/img/products/basket_shopping_bag_rain_cover/rain_cover/CR-01/CR-01-1.jpg"
+        "img": "./img/products/basket_shopping_bag_rain_cover/rain_cover/CR-01/CR-01-1.jpg"
       },
       "CR-01L": {
-        "img": "http://localhost:63342/konnix/img/products/basket_shopping_bag_rain_cover/rain_cover/CR-01L/CR-01L.jpg"
+        "img": "./img/products/basket_shopping_bag_rain_cover/rain_cover/CR-01L/CR-01L.jpg"
       },
       "TY-RCE-210": {
-        "img": "http://localhost:63342/konnix/img/products/basket_shopping_bag_rain_cover/rain_cover/TY-RCE-210/TY-RCE-210-1.jpg"
+        "img": "./img/products/basket_shopping_bag_rain_cover/rain_cover/TY-RCE-210/TY-RCE-210-1.jpg"
       },
       "TY-RCE-230": {
-        "img": "http://localhost:63342/konnix/img/products/basket_shopping_bag_rain_cover/rain_cover/TY-RCE-230/TY-RCE-230-1.jpg"
+        "img": "./img/products/basket_shopping_bag_rain_cover/rain_cover/TY-RCE-230/TY-RCE-230-1.jpg"
       },
       "CR-SR01": {
-        "img": "http://localhost:63342/konnix/img/products/basket_shopping_bag_rain_cover/rain_cover/CR-SR01/CR-SR01.jpg"
+        "img": "./img/products/basket_shopping_bag_rain_cover/rain_cover/CR-SR01/CR-SR01.jpg"
       }
     }
   },
   "Wheel bag, Bike bag and Bike cover": {
     "Wheel bag": {
       "TY-56BDM-2CM": {
-        "img": "http://localhost:63342/konnix/img/products/wheel_bag/wheel_bag/TY-56BD/TY-56BD.jpg"
+        "img": "./img/products/wheel_bag/wheel_bag/TY-56BD/TY-56BD.jpg"
       },
       "TY-56BDL-29": {
-        "img": "http://localhost:63342/konnix/img/products/wheel_bag/wheel_bag/TY-56BD/TY-56BD.jpg"
+        "img": "./img/products/wheel_bag/wheel_bag/TY-56BD/TY-56BD.jpg"
       },
       "TY-56BL-29": {
-        "img": "http://localhost:63342/konnix/img/products/wheel_bag/wheel_bag/TY-56BL-29/TY-56BL-29.jpg"
+        "img": "./img/products/wheel_bag/wheel_bag/TY-56BL-29/TY-56BL-29.jpg"
       }
     },
     "Bike bag": {
       "PL-001": {
-        "img": "http://localhost:63342/konnix/img/products/wheel_bag/bike_bag/PL-001/PL-001-1.jpg"
+        "img": "./img/products/wheel_bag/bike_bag/PL-001/PL-001-1.jpg"
       },
       "CT-001-13": {
-        "img": "http://localhost:63342/konnix/img/products/wheel_bag/bike_bag/CT-001-13/CT-001-13-1.jpg"
+        "img": "./img/products/wheel_bag/bike_bag/CT-001-13/CT-001-13-1.jpg"
       }
     },
     "Bike cover": {
       "TY-05558B": {
-        "img": "http://localhost:63342/konnix/img/products/wheel_bag/bike_cover/TY-0558B/TY-0558B-1.jpg"
+        "img": "./img/products/wheel_bag/bike_cover/TY-0558B/TY-0558B-1.jpg"
       },
       "TY-58B": {
-        "img": "http://localhost:63342/konnix/img/products/wheel_bag/bike_cover/TY-58B/TY-58B-1.jpg"
+        "img": "./img/products/wheel_bag/bike_cover/TY-58B/TY-58B-1.jpg"
       }
     }
   },
   "system": {
     "Handlebar": {
       "SP2": {
-        "img": "https://yasu0304.github.io/konnix/img/products/system/handlebar/SP2/SP2.jpg"
+        "img": "./img/products/system/handlebar/SP2/SP2.jpg"
       },
       "E-SP2": {
-        "img": "https://yasu0304.github.io/konnix/img/products/system/handlebar/E-SP2/E-SP2.jpg"
+        "img": "./img/products/system/handlebar/E-SP2/E-SP2.jpg"
       },
       "Cradle": {
-        "img": "https://yasu0304.github.io/konnix/img/products/system/handlebar/Cradle/Cradle.jpg"
+        "img": "./img/products/system/handlebar/Cradle/Cradle.jpg"
       },
       "3PMTS+Easy pull": {
-        "img": "https://yasu0304.github.io/konnix/img/products/system/handlebar/3PMTS+Easy%20pull/3PMTS+Easy%20pull-1.jpg"
+        "img": "./img/products/system/handlebar/3PMTS+Easy%20pull/3PMTS+Easy%20pull-1.jpg"
       },
       "E-SP4": {
-        "img": "https://yasu0304.github.io/konnix/img/products/system/handlebar/E-SP4/E-SP4.jpg"
+        "img": "./img/products/system/handlebar/E-SP4/E-SP4.jpg"
       }
     },
     "Saddle bag": {
       "QR2": {
-        "img": "https://yasu0304.github.io/konnix/img/products/system/saddle_bag/QR2/QR2-1.jpg"
+        "img": "./img/products/system/saddle_bag/QR2/QR2-1.jpg"
       },
       "QR3": {
-        "img": "https://yasu0304.github.io/konnix/img/products/system/saddle_bag/QR3/QR3-1.jpg"
+        "img": "./img/products/system/saddle_bag/QR3/QR3-1.jpg"
       },
       "QR6": {
-        "img": "https://yasu0304.github.io/konnix/img/products/system/saddle_bag/QR6/QR6.jpg"
+        "img": "./img/products/system/saddle_bag/QR6/QR6.jpg"
       }
     },
     "Handy bag": {
       "SPH01": {
-        "img": "https://yasu0304.github.io/konnix/img/products/system/saddle_bag/T-Bar/T-Bar-1.jpg"
+        "img": "./img/products/system/saddle_bag/T-Bar/T-Bar-1.jpg"
       },
       "SPH02": {
-        "img": "https://yasu0304.github.io/konnix/img/products/system/handy_bag/SPH01/SPH01-1.jpg"
+        "img": "./img/products/system/handy_bag/SPH01/SPH01-1.jpg"
       },
       "SPH03": {
-        "img": "https://yasu0304.github.io/konnix/img/products/system/handy_bag/SPH03/SPH03.jpg"
+        "img": "./img/products/system/handy_bag/SPH03/SPH03.jpg"
       }
     },
     "Cage": {
       "CG-01": {
-        "img": "https://yasu0304.github.io/konnix/img/products/system/cage/CG-01/CG-01-01.jpg"
+        "img": "./img/products/system/cage/CG-01/CG-01-01.jpg"
       }
     },
     "Pannier": {
       "QRT": {
-        "img": "https://yasu0304.github.io/konnix/img/products/system/pannier/QRT/QRT.jpg"
+        "img": "./img/products/system/pannier/QRT/QRT.jpg"
       },
       "T-19": {
-        "img": "https://yasu0304.github.io/konnix/img/products/system/pannier/T-19/T-19.jpg"
+        "img": "./img/products/system/pannier/T-19/T-19.jpg"
       },
       "R&K": {
-        "img": "https://yasu0304.github.io/konnix/img/products/system/pannier/R&K/R&K.jpg"
+        "img": "./img/products/system/pannier/R&K/R&K.jpg"
       },
       "T-06": {
-        "img": "https://yasu0304.github.io/konnix/img/products/system/pannier/T-06/T-06.jpg"
+        "img": "./img/products/system/pannier/T-06/T-06.jpg"
       },
       "Hook 05": {
-        "img": "https://yasu0304.github.io/konnix/img/products/system/pannier/Hook%2005/Hook%2005.jpg"
+        "img": "./img/products/system/pannier/Hook%2005/Hook%2005.jpg"
       }
     },
     "Trunk bag": {
       "QRS-01": {
-        "img": "https://yasu0304.github.io/konnix/img/products/system/trunk_bag/QRS-01/QRS-01.jpg"
+        "img": "./img/products/system/trunk_bag/QRS-01/QRS-01.jpg"
       }
     },
     "Messenger bag": {
       "Rack click 02": {
-        "img": "https://yasu0304.github.io/konnix/img/products/system/messenger_bag/Rack%20click%2002/Rack%20click%2002.jpg"
+        "img": "./img/products/system/messenger_bag/Rack%20click%2002/Rack%20click%2002.jpg"
       }
     }
   }
