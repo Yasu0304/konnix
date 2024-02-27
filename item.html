@@ -44,7 +44,7 @@
 
 <body style="display: flex;flex-direction: column;">
 <div class="d-flex flex-column flex-grow-1">
-    <div class="flex-shrink-0 sticky-top mb-4">
+    <div class="flex-shrink-0 sticky-top mb-4">a
         <div class="container-fluid d-flex justify-content-center priBgHover py-3">
             <a href="#" class="h6 text-white text-decoration-none fw-bold mb-0 me-3"> <i
                     class="bi bi-telephone-fill me-2"></i>886-4-2681 5259 </a>
@@ -112,26 +112,8 @@
                 </div>
             </div>
             <div class="col-12 col-sm-6">
-                <h2 id="product-name" class="mb-3 fw-bold ">WR-15840K</h2>
+                <h2 id="product-name" class="mb-3 fw-bold "></h2>
                 <div id="content" class="px-4" style="color:#595857">
-                    <p class="textIndent"><i class="bi bi-caret-right-fill" style="font-size: 8pt;"></i>Bike packing
-                        Front Fork bag</p>
-                    <p class="textIndent"><i class="bi bi-caret-right-fill" style="font-size: 8pt;"></i>ECO waterproof
-                        fabric finished</p>
-                    <p class="textIndent"><i class="bi bi-caret-right-fill" style="font-size: 8pt;"></i>Top roll down
-                        closing with buckle fasten.</p>
-                    <p class="textIndent"><i class="bi bi-caret-right-fill" style="font-size: 8pt;"></i>With New system
-                        Cage install on the fork tube.</p>
-                    <p class="textIndent"><i class="bi bi-caret-right-fill" style="font-size: 8pt;"></i>Available with
-                        several installations, bolts / clamp / cable tie.</p>
-                    <p class="textIndent"><i class="bi bi-caret-right-fill" style="font-size: 8pt;"></i>2 extra strap go
-                        around the bag tight into the cage with ladder lock.</p>
-                    <p class="textIndent"><i class="bi bi-caret-right-fill" style="font-size: 8pt;"></i>2 size option,
-                    </p>
-                    <p class="textIndent"><i class="bi bi-caret-right-fill" style="font-size: 8pt;"></i>WR-15840K Size:
-                        12.5 x 12.5 x 27cm</p>
-                    <p class="textIndent"><i class="bi bi-caret-right-fill" style="font-size: 8pt;"></i>WR-15840KL Size:
-                        17 x 17 x 15cm</p>
                 </div>
             </div>
         </div>
@@ -171,7 +153,6 @@
 <script>
     AOS.init();
 </script>
-<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <script>
     var swiper = new Swiper(".mySwiper", {
         spaceBetween: 10,
@@ -192,10 +173,18 @@
     $(function () {
         let jsonList = [
             "bike_packing.json",
+            "basket shopping bag.json",
+            "handlebar_bag.json",
+            "outdoor_waterproof collection.json",
             "double_pannier_triple_pannier.json",
             "frame_bag.json",
+            "i-Touch_bag.json",
+            "saddle_bag.json",
             "trunk_bag.json",
             "pannier_bag.json",
+            "system.json",
+            "waterproof_motorcycle_collection.json",
+            "wheel_bag.json",
             "messenger_bag.json"
         ];
         let products = [];
@@ -249,7 +238,7 @@
                     dataInfo.img.forEach((image) => {
                         mainImageHtml += `<div class="swiper-slide">`
                         mainImageHtml += `<div>`
-                        mainImageHtml += `<div class="cardEquip" style="background-image: url('` + image + `');"></div>`
+                        mainImageHtml += `<div class="cardEquip" style='background-image: url("` + image + `");'></div>`
                         mainImageHtml += `</div>`
                         mainImageHtml += `</div>`
                         mainImageHtml += `<div class="swiper-slide">`
