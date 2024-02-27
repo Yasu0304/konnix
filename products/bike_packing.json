@@ -1,4 +1,167 @@
 {
+  "": {
+    "title": "",
+    "type": "",
+    "img": [
+      ""
+    ],
+    "text": [
+    ]
+  },
+  "WR-17133XS": {
+    "title": "WR-17133XS",
+    "type": "",
+    "img": [
+      "./img/products/bike_packing/frame_bag/WR-17133XS/WR-17133XS.jpg"
+    ],
+    "text": [
+      "New Shape of Bike packing Frame bag",
+      "ECO waterproof fabric finished.",
+      "Inner with EVA movable pouch,",
+      "Waterproof zipper opening,",
+      "3 Velcros attached on the frame.",
+      "Size: 32 x 7 x 17.5cm"
+    ]
+  },
+  "WR-17133XSD-C": {
+    "title": "WR-17133XSD-C",
+    "type": "",
+    "img": [
+      "./img/products/bike_packing/frame_bag/WR-17133XSD-C/WR-17133XSD-C.jpg"
+    ],
+    "text": [
+      "New Shape of Bike packing Frame bag",
+      "ECO waterproof fabric finished.",
+      "Inner with EVA movable pouch,",
+      "Double Waterproof zippers opening with flap.",
+      "3 Velcros attached on the frame.",
+      "Size: 32 x 7 x 17.5cm"
+    ]
+  },
+  "WR-17133XSF": {
+    "title": "WR-17133XSF",
+    "type": "",
+    "img": [
+      "./img/products/bike_packing/frame_bag/WR-17133XSF/WR-17133XSF-1.jpg",
+      "./img/products/bike_packing/frame_bag/WR-17133XSF/WR-17133XSF-2.jpg",
+      "./img/products/bike_packing/frame_bag/WR-17133XSF/WR-17133XSF-3.jpg"
+    ],
+    "text": [
+      "New Shape of Bike packing Frame bag",
+      "ECO waterproof fabric finished.",
+      "Inner with EVA movable pouch,",
+      "Waterproof zipper opening,",
+      "3 Velcros attached on the frame.",
+      "Size: 26 x 7 x 21cm"
+    ]
+  },
+  "WR-231702L-P": {
+    "title": "WR-231702L-P",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/bike_packing/top_tube_bag/WR-1903L-P/WR-1903L-P-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/bike_packing/top_tube_bag/WR-1903L-P/WR-1903L-P-2.jpg",
+      "https://yasu0304.github.io/konnix/img/products/bike_packing/top_tube_bag/WR-1903L-P/WR-1903L-P-3.jpg"
+    ],
+    "text": [
+      "New Design Bike packing Top Tube bag",
+      "ECO waterproof fabric finished",
+      "With magnet top cover closing ,",
+      "Inner with plastic sheet support and fuzzy fabric laminated.",
+      "With 2 Velcros fastening on the frame and extra elastic cord go around stem.",
+      "Size: 22.5 x 6 x 10/6cm"
+    ]
+  },
+  "WR-1702L-20": {
+    "title": "WR-1702L-20",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/bike_packing/top_tube_bag/WR-1702L-20/WR-1702L-20-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/bike_packing/top_tube_bag/WR-1702L-20/WR-1702L-20-2.jpg"
+    ],
+    "text": [
+      "Bike packing Top Tube bag",
+      "ECO waterproof fabric finished",
+      "Inner with EVA foam pouch support ,",
+      "Waterproof zipper opening,",
+      "With removable 3 Velcros fastening on the frame and stem.",
+      "Two size option.",
+      "Size L: 26.5 x 5.5 x 10/5.5cm",
+      "Size S: 21.5 x 5.5 x 10/5.5cm"
+    ]
+  },
+  "WR-1903L-P": {
+    "title": "WR-1903L-P",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/bike_packing/top_tube_bag/WR-1903L-P/WR-1903L-P-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/bike_packing/top_tube_bag/WR-1903L-P/WR-1903L-P-2.jpg",
+      "https://yasu0304.github.io/konnix/img/products/bike_packing/top_tube_bag/WR-1903L-P/WR-1903L-P-3.jpg"
+    ],
+    "text": [
+      "Bike packing Top Tube bag",
+      "ECO waterproof fabric finished",
+      "Waterproof zipper opening,",
+      "Inner with plastic sheet support and fuzzy fabric laminated.",
+      "With removable 3 Velcros fastening on the frame and stem.",
+      "size option:",
+      "S: 20 x 5 x 8/5cm",
+      "L: 24.5 x 5.8 x 10/5cm"
+    ]
+  },
+  "WR-23709-P": {
+    "title": "WR-23709-P",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/bike_packing/top_tube_bag/WR-23709-P/WR-23709-P.jpg"
+    ],
+    "text": [
+      "Bike packing Top Tube bag",
+      "ECO waterproof fabric finished",
+      "With magnet top cover closing ,",
+      "Inner with plastic sheet support",
+      "Size: 14.3 x 4.4 x 12.3cm"
+    ]
+  },
+  "WR-15840K-V": {
+    "title": "WR-15840K-V",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/bike_packing/cage_bag/WR-15840K-V/WR-15840K-V.jpg"
+    ],
+    "text": [
+      "To have air valve also available",
+      "Size: 12.5 x 12.5 x 27cm"
+    ]
+  },
+  "WR-15840KL-V": {
+    "title": "WR-15840KL-V",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/bike_packing/cage_bag/WR-15840KL-V/WR-15840KL-V-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/bike_packing/cage_bag/WR-15840KL-V/WR-15840KL-V-2.jpg"
+    ],
+    "text": [
+      "To have air valve also available",
+      "Size: 17 x 17 x 15cm"
+    ]
+  },
+  "WR-70128LZ": {
+    "title": "WR-70128LZ",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/bike_packing/cage_bag/WR-70128LZ/WR-70128LZ.jpg"
+    ],
+    "text": [
+      "Bike packing Front Fork bag",
+      "ECO waterproof fabric finished",
+      "With New system Cage install on the fork tube.",
+      "Cage available with several installations, bolts / clamp / cable tie.",
+      "2 extra strap go around the bag tight into the cage with ladder lock.",
+      "Bag with waterproof zipper opening. Easy to install sleeping bag etc.",
+      "Size: 17 x 17 x 29cm"
+    ]
+  },
   "WR-19818L": {
     "title": "WR-19818L",
     "type": "saddle bag",
@@ -177,9 +340,6 @@
       "L: 50x6.5x18cm"
     ]
   },
-
-
-
   "WR-15133M-23A": {
     "title": "WR-15133M-23A",
     "type": "frame bag",
@@ -196,8 +356,6 @@
       "Size M: 46x6.4x17cm"
     ]
   },
-
-
   "WR-16133M-23A": {
     "title": "WR-16133M-23A",
     "type": "frame bag",
@@ -207,7 +365,6 @@
       "./img/products/bike_packing/frame_bag/WR-16133M-23A/WR-16133M-23A-3.jpg"
     ],
     "text": [
-
       "New Shape of Bike packing Frame Bag",
       "ECO waterproof fabric finished.",
       "Five adjustable velcro including, double side waterproof zippers opening.",
@@ -216,13 +373,8 @@
       "Size S: 40x6.4x15cm",
       "Size M: 46x6.4x17cm",
       "Option : Inner with EVA padding bag available Article Nr. WR-16133-23E"
-
     ]
   },
-
-
-
-
   "WR-16134-23": {
     "title": "WR-16134-23",
     "type": "frame bag",
@@ -238,23 +390,6 @@
       "Size: 29.5x 4.5 x 25.5/13cm"
     ]
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   "WR-15840K": {
     "title": "WR-15840K",
     "type": "cage_bag",
