@@ -190,7 +190,14 @@
         },
     });
     $(function () {
-        let jsonList = ["bike_packing.json", "double_pannier_triple_pannier.json", "frame_bag.json", "trunk_bag.json"];
+        let jsonList = [
+            "bike_packing.json",
+            "double_pannier_triple_pannier.json",
+            "frame_bag.json",
+            "trunk_bag.json",
+            "pannier_bag.json",
+            "messenger_bag.json"
+        ];
         let products = [];
         let fetchPromises = jsonList.map((str) => {
             return fetch("./products/" + str)
