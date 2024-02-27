@@ -1,31 +1,143 @@
 {
-  "WR-15840K": {
-    "title": "WR-15840K",
-    "type": "cage_bag",
+  "": {
+    "title": "",
+    "type": "",
     "img": [
-      "./img/products/bike_packing/cage_bag/WR-15840K/WR-15840K.jpg"
+      ""
     ],
     "text": [
-      "Bike packingFront Fork bag",
-      "ECO waterproof fabric finished",
-      "Top roll down closing with buckle fasten.",
-      "With New system Cage install on the fork tube.",
-      "Available with several installations, bolts / clamp / cable tie.",
-      "2 extra strap go around the bag tight into the cage with ladder lock.",
-      "2 size option,",
-      "WR-15840K Size: 12.5 x 12.5 x 27cm",
-      "WR-15840KL Size: 17 x 17 x 15cm"
     ]
   },
-  "WR-15840K-V": {
-    "title": "WR-15840K-V",
-    "type": "cage_bag",
+  "WR-062992": {
+    "title": "WR-062992",
+    "type": "",
     "img": [
-      "./img/products/bike_packing/cage_bag/WR-15840K/WR-15840K-V.jpg"
+      "./img/products/trunk_bag/waterproof_collection/WR-062992/WR-062992-1.jpg",
+      "./img/products/trunk_bag/waterproof_collection/WR-062992/WR-062992-2.jpg",
+      "./img/products/trunk_bag/waterproof_collection/WR-062992/WR-062992-3.jpg"
     ],
     "text": [
-      "To have air valve also available",
-      "Size: 12.5 x 12.5 x 27cm"
+      "ECO fabric waterproof finished",
+      "With QR seat post holder , Strong plastic sheet support.",
+      "Bag with down part waterproof finished,",
+      "Upper with extra expandable zipper pocket.",
+      "Elastic cord attached for extra function to carry.",
+      "Size: 39.5 x 14.5 x 17cm"
+    ]
+  },
+  "WR-1392H-23": {
+    "title": "WR-1392H-23",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/trunk_bag/waterproof_collection/WR-1392H-23/WR-1392H-23.jpg"
+    ],
+    "text": [
+      "ECO fabric waterproof finished.",
+      "Completely waterproof , Top roll down closing with size released buckle.",
+      "Down with strong plastic support , with QR installation on the seat post.",
+      "Size: 27 x 14.5 x 19cm"
+    ]
+  },
+  "TK-1392H-C": {
+    "title": "TK-1392H-C",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/trunk_bag/standard_collection/TK-1392H-C/TK-1392H-C.jpg"
+    ],
+    "text": [
+      "Trunk bag with Seat post holder",
+      "two side zipper pockets and bottle bag",
+      "Top Extra bag zipper opening",
+      "Elastic cord carry extra stuffs",
+      "Reflective security care , light loop attached",
+      "With Rain Cover attached.",
+      "Size: 28 x 22 x 21 cm"
+    ]
+  },
+  "TY-092992": {
+    "title": "TY-092992",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/trunk_bag/standard_collection/TY-092992/TY-092992-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/trunk_bag/standard_collection/TY-092992/TY-092992-2.jpg",
+      "https://yasu0304.github.io/konnix/img/products/trunk_bag/standard_collection/TY-092992/TY-092992-3.jpg",
+      "https://yasu0304.github.io/konnix/img/products/trunk_bag/standard_collection/TY-092992/TY-092992-4.jpg"
+    ],
+    "text": [
+      "Full function Trunk bag",
+      "Top with elastic cord for extra storage, and handle strap.",
+      "Zipper opening, inner with neoprene pocket ,",
+      "Reflective safety care around the bag,",
+      "Side pocket expandable, rear with mesh water bottle pocket.",
+      "Front with webbing light loop.",
+      "Bottom with extra panel attached to install it onto the bike trunk,",
+      "Bag can attach with the panel on the rack with Velcro and the buckle,",
+      "Double security to hold the bag on the rack well.",
+      "Shoulder strap including.",
+      "Size: 35 x 14 x 20cm"
+    ]
+  },
+  "TY-062992": {
+    "title": "TY-062992",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/trunk_bag/standard_collection/TY-062992/TY-062992-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/trunk_bag/standard_collection/TY-062992/TY-062992-2.jpg",
+      "https://yasu0304.github.io/konnix/img/products/trunk_bag/standard_collection/TY-062992/TY-062992-3.jpg"
+    ],
+    "text": [
+      "Trunk bag, with handle strap",
+      "Inner foam padding 3M reflective strip.",
+      "Water bottle pouch, Velcro fastening with",
+      "Rack expendable side pocket",
+      "Size: 31 x 16 x 19cm"
+    ]
+  },
+  "TK-1291": {
+    "title": "TK-1291",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/trunk_bag/standard_collection/TK-1291/TK-1291.jpg"
+    ],
+    "text": [
+      "Trunk Bag with Foam up full bag",
+      "Webbing handle , with Velcro fasten on the Rack",
+      "Reflective Security care, Mesh Pocket",
+      "Two side zipper pocket",
+      "Inner with extra pocket",
+      "Shoulder Strap include adjustable",
+      "Size: 31 x 16 x 19cm"
+    ]
+  },
+  "RK-1291E": {
+    "title": "RK-1291E\n",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/trunk_bag/standard_collection/RK-1291E/RK-1291E-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/trunk_bag/standard_collection/RK-1291E/RK-1291E-2.jpg"
+    ],
+    "text": [
+      "Cool simple trunk bag.",
+      "Side pocket expandable.",
+      "Rear with reflective patch, strong plastic sheet supper whole bag.",
+      "Handle strap with and elastic cord on the top.",
+      "Shoulder strap including.",
+      "Available with or without QR system.",
+      "Size: 35 x 13 x 18cm"
+    ]
+  },
+  "TK-1291P-23": {
+    "title": "TK-1291P-23",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/trunk_bag/standard_collection/TK-1291P-23/TK-1291P-23.jpg"
+    ],
+    "text": [
+      "Update Trunk bag design.",
+      "With two side big pocket and small front pocket",
+      "Reflective safety strip including, top handle strap with holder",
+      "Elastic cord attached, Shoulder strap including.",
+      "Size: 38 x 24 x 20cm"
     ]
   }
 }

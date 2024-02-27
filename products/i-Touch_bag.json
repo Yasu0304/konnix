@@ -1,31 +1,68 @@
 {
-  "WR-15840K": {
-    "title": "WR-15840K",
-    "type": "cage_bag",
+  "": {
+    "title": "",
+    "type": "",
     "img": [
-      "./img/products/bike_packing/cage_bag/WR-15840K/WR-15840K.jpg"
+      ""
     ],
     "text": [
-      "Bike packingFront Fork bag",
-      "ECO waterproof fabric finished",
-      "Top roll down closing with buckle fasten.",
-      "With New system Cage install on the fork tube.",
-      "Available with several installations, bolts / clamp / cable tie.",
-      "2 extra strap go around the bag tight into the cage with ladder lock.",
-      "2 size option,",
-      "WR-15840K Size: 12.5 x 12.5 x 27cm",
-      "WR-15840KL Size: 17 x 17 x 15cm"
     ]
   },
-  "WR-15840K-V": {
-    "title": "WR-15840K-V",
-    "type": "cage_bag",
+  "WR-820-15+": {
+    "title": "WR-820-15+",
+    "type": "",
     "img": [
-      "./img/products/bike_packing/cage_bag/WR-15840K/WR-15840K-V.jpg"
+      "https://yasu0304.github.io/konnix/img/products/i-touch_bag/WR-820-15+/WR-820-15+.jpg"
     ],
     "text": [
-      "To have air valve also available",
-      "Size: 12.5 x 12.5 x 27cm"
+      "ECO- Environment friendly fabric",
+      "None PVC material with i-touch screen,",
+      "QR bracket for Handlebar",
+      "Size: 9 x 1.1 x 17.5cm"
+    ]
+  },
+  "WR-23854-15+": {
+    "title": "WR-23854-15+",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/i-touch_bag/WR-23854-15+/WR-23854-15+.jpg"
+    ],
+    "text": [
+      "ECO environment friendly fabric",
+      "Waterproof I touch screen and zipper",
+      "available with QR bracket or Velcro",
+      "Neoprene pretection padding",
+      "Size: 10 x 2 x 18cm"
+    ]
+  },
+  "WR-17071": {
+    "title": "WR-17071",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/i-touch_bag/WR-17071/WR-17071-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/i-touch_bag/WR-17071/WR-17071-2.jpg",
+      "https://yasu0304.github.io/konnix/img/products/i-touch_bag/WR-17071/WR-17071-3.jpg"
+    ],
+    "text": [
+      "Waterproof Top Frame with Handy pocket",
+      "i-touch screen enclosed",
+      "Webbing +Velcro fastening",
+      "Size: 17.5x9x11cm"
+    ]
+  },
+  "TY-10071EV-R": {
+    "title": "TY-10071EV-R",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/i-touch_bag/TY-10071EV-R/TY-10071EV-R-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/i-touch_bag/TY-10071EV-R/TY-10071EV-R-2.jpg",
+      "https://yasu0304.github.io/konnix/img/products/i-touch_bag/TY-10071EV-R/TY-10071EV-R-3.jpg"
+    ],
+    "text": [
+      "ECO-Environment Friendly Fabric",
+      "None PVC material with i-touch screen",
+      "Velcro with padding for Frame protection",
+      "Size: 11 x 10.5 x 15.5cm"
     ]
   }
 }

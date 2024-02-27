@@ -1,31 +1,242 @@
 {
-  "WR-15840K": {
-    "title": "WR-15840K",
-    "type": "cage_bag",
+  "": {
+    "title": "",
+    "type": "",
     "img": [
-      "./img/products/bike_packing/cage_bag/WR-15840K/WR-15840K.jpg"
+      ""
     ],
     "text": [
-      "Bike packingFront Fork bag",
-      "ECO waterproof fabric finished",
-      "Top roll down closing with buckle fasten.",
-      "With New system Cage install on the fork tube.",
-      "Available with several installations, bolts / clamp / cable tie.",
-      "2 extra strap go around the bag tight into the cage with ladder lock.",
-      "2 size option,",
-      "WR-15840K Size: 12.5 x 12.5 x 27cm",
-      "WR-15840KL Size: 17 x 17 x 15cm"
     ]
   },
-  "WR-15840K-V": {
-    "title": "WR-15840K-V",
-    "type": "cage_bag",
+  "WR-20040V-23": {
+    "title": "WR-20040V-23",
+    "type": "",
     "img": [
-      "./img/products/bike_packing/cage_bag/WR-15840K/WR-15840K-V.jpg"
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/waterproof_collection/WR-20040V-23/WR-20040V-23-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/waterproof_collection/WR-20040V-23/WR-20040V-23-2.jpg"
     ],
     "text": [
-      "To have air valve also available",
-      "Size: 12.5 x 12.5 x 27cm"
+      "ECO fabric waterproof finished",
+      "With webbing velcro go under saddle fastening.",
+      "Extra security with velcro tight around seat post",
+      "Small and light design.",
+      "Size: 13.3 x 6 x 6 cm"
+    ]
+  },
+  "WR-20070V-23": {
+    "title": "",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/waterproof_collection/WR-20070V-23/WR-20070V-23-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/waterproof_collection/WR-20070V-23/WR-20070V-23-2.jpg"
+    ],
+    "text": [
+      "ECO fabric waterproof finished",
+      "With webbing velcro go under saddle fastening.",
+      "Extra security with velcro tight around seat post",
+      "Light fabric design, with reflective patch",
+      "Size: 17 x 7 x 7cm"
+    ]
+  },
+  "WR-14818U-M1V": {
+    "title": "WR-14818U-M1V",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/waterproof_collection/WR-14818U-M1V/WR-14818U-M1V-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/waterproof_collection/WR-14818U-M1V/WR-14818U-M1V-2.jpg",
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/waterproof_collection/WR-14818U-M1V/WR-14818U-M1V-3.jpg"
+    ],
+    "text": [
+      "New shape completely WR saddle bag",
+      "Side released openning",
+      "with Webbing Velcro vesion",
+      "with light loop",
+      "Size: 14 x 8.5 x 6cm"
+    ]
+  },
+  "WR-23818L": {
+    "title": "WR-23818L",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/waterproof_collection/WR-23818L/WR-23818L.jpg"
+    ],
+    "text": [
+      "ECO fabric waterproof finished",
+      "Roll down closing with side released buckle",
+      "Plastic sheet support inner.",
+      "With extra velcro hold the seat post .",
+      "With Saddle bag QR bracket .",
+      "Size: 17 x 9 x 13cm"
+    ]
+  },
+  "WR-07120RV": {
+    "title": "WR-07120RV",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/waterproof_collection/WR-07120RV/WR-07120RV-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/waterproof_collection/WR-07120RV/WR-07120RV-2.jpg"
+    ],
+    "text": [
+      "ECO fabric waterproof finished",
+      "Webbing fastening under the saddle.",
+      "With elastic mesh support the front flap cover.",
+      "Front inner mesh pocket, waterproof zipper opening",
+      "With Hypalon velcro fasten , extra velcro tight around seat post .",
+      "With Light loop ,",
+      "Size: 8 x 20 x 12cm"
+    ]
+  },
+  "WR-18818L": {
+    "title": "WR-18818L",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/waterproof_collection/WR-18818L/WR-18818L.jpg"
+    ],
+    "text": [
+      "ECO fabric waterproof finished",
+      "Webbing fastening under the saddle.",
+      "Extra large storage size, Reflective security care.",
+      "Velcro tight around the seat post.",
+      "Inner plastic sheet support well.",
+      "Size: 18 x 8 x 8.5cm"
+    ]
+  },
+  "WR-18818S": {
+    "title": "WR-18818S",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/waterproof_collection/WR-18818S/WR-18818S.jpg"
+    ],
+    "text": [
+      "ECO fabric waterproof finished",
+      "Webbing fastening under the saddle.",
+      "Extra large storage size, Reflective security care.",
+      "Velcro tight around the seat post.",
+      "Inner plastic sheet support well.",
+      "Size: 18 x 8 x 6.5cm"
+    ]
+  },
+  "WR-818S": {
+    "title": "WR-818S",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/waterproof_collection/WR-818S/WR-818S.jpg"
+    ],
+    "text": [
+      "Waterproof Hot sealed finished",
+      "With waterproof zipper opening",
+      "Saddle bag with QR bracket for fastening",
+      "Super strong PP sheet support",
+      "Size: 15 x 9.5 x 10cm"
+    ]
+  },
+  "RF-12025RV1-M": {
+    "title": "RF-12025RV1-M",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/standard_collection/RF-12025RV1-M/RF-12025RV1-M-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/standard_collection/RF-12025RV1-M/RF-12025RV1-M-2.jpg",
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/standard_collection/RF-12025RV1-M/RF-12025RV1-M-3.jpg"
+    ],
+    "text": [
+      "Reflective fabric",
+      "Stitching finished saddle bag",
+      "with EVA foam padding,",
+      "Popular shape with reflective fabric complete,",
+      "With light webbing loop,",
+      "webbing + velcro fastening",
+      "size option:",
+      "S: 11 x 6 x 6cm",
+      "M: 14 x 7.5 x 7.5cm",
+      "L: 16.5 x 9 x 8.5cm",
+      "XL: 18.5 x 11.5 x 10cm"
+    ]
+  },
+  "TY-14065L": {
+    "title": "TY-14065L",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/standard_collection/TY-14065L/TY-14065L-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/standard_collection/TY-14065L/TY-14065L-2.jpg",
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/standard_collection/TY-14065L/TY-14065L-3.jpg"
+    ],
+    "text": [
+      "Saddle bag front openning",
+      "expendable function,",
+      "Q.R. system or velcro all available",
+      "Different size option",
+      "size option:",
+      "S: 14 x 6 x 8.5cm(EX-12.5cm)",
+      "M: 16 x 6 x 8.5cm(EX-12.5cm)",
+      "L: 20 x 8.5 x 10cm(EX-14cm)"
+    ]
+  },
+  "TY-1670FV-M": {
+    "title": "TY-1670FV-M",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/standard_collection/TY-1670FV-M/TY-1670FV-M-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/standard_collection/TY-1670FV-M/TY-1670FV-M-2.jpg"
+    ],
+    "text": [
+      "Popular desgin",
+      "Material in Foaming completely",
+      "Good shape for Saddle,",
+      "Light loop with reflective function",
+      "Inner extra mesh pocket + flap holder",
+      "Waterproof Zipper enclosed",
+      "Webbing with Velcro fastening",
+      "size option:",
+      "S: 8 x 14 x 8cm",
+      "M: 8.5 x 17 x 10cm",
+      "L: 8.5 x 18 x 10cm"
+    ]
+  },
+  "TY-16025WB": {
+    "title": "TY-16025WB",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/standard_collection/TY-16025WB/TY-16025WB.jpg"
+    ],
+    "text": [
+      "Stitching finished saddle bag",
+      "with water bottle pocket",
+      "Webbing + Velcro fastening under saddle ,",
+      "Extra holder reflective security strip ,",
+      "Elastic cord as bottle holder",
+      "Size: 9.5 x 9 x 22.5cm"
+    ]
+  },
+  "TY-14060TA": {
+    "title": "TY-14060TA",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/standard_collection/TY-14060TA/TY-14060TA-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/standard_collection/TY-14060TA/TY-14060TA-2.jpg"
+    ],
+    "text": [
+      "Saddle bag with Tool kits",
+      "Reflective safety care",
+      "Double zipper expandable",
+      "QR or webbing velcro fastening available",
+      "Photo show with QR bracket-6",
+      "Size: 9.5 x 18 x 11cm"
+    ]
+  },
+  "TY-12085XEV": {
+    "title": "TY-12085XEV",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/standard_collection/TY-12085XEV/TY-12085XEV-1.jpg",
+      "https://yasu0304.github.io/konnix/img/products/saddle_bag/standard_collection/TY-12085XEV/TY-12085XEV-2.jpg"
+    ],
+    "text": [
+      "EVA cup saddle bag with standard zipper",
+      "Reflective safety care, inner mesh project",
+      "with QR bracket",
+      "size option:",
+      "S: 7 x 7 x 13cm",
+      "M: 8 x 9 x 15cm"
     ]
   }
 }

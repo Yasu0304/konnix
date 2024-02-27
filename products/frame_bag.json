@@ -1,31 +1,41 @@
 {
-  "WR-15840K": {
-    "title": "WR-15840K",
-    "type": "cage_bag",
+  "": {
+    "title": "",
+    "type": "",
     "img": [
-      "./img/products/bike_packing/cage_bag/WR-15840K/WR-15840K.jpg"
+      ""
     ],
     "text": [
-      "Bike packingFront Fork bag",
-      "ECO waterproof fabric finished",
-      "Top roll down closing with buckle fasten.",
-      "With New system Cage install on the fork tube.",
-      "Available with several installations, bolts / clamp / cable tie.",
-      "2 extra strap go around the bag tight into the cage with ladder lock.",
-      "2 size option,",
-      "WR-15840K Size: 12.5 x 12.5 x 27cm",
-      "WR-15840KL Size: 17 x 17 x 15cm"
     ]
   },
-  "WR-15840K-V": {
-    "title": "WR-15840K-V",
-    "type": "cage_bag",
+  "TY-09133A-13": {
+    "title": "TY-09133A-13",
+    "type": "",
     "img": [
-      "./img/products/bike_packing/cage_bag/WR-15840K/WR-15840K-V.jpg"
+      "./img/products/frame_bag/TY-09133A-13/TY-09133A-13-1.jpg",
+      "./img/products/frame_bag/TY-09133A-13/TY-09133A-13-2.jpg",
+      "./img/products/frame_bag/TY-09133A-13/TY-09133A-13-3.jpg",
+      "./img/products/frame_bag/TY-09133A-13/TY-09133A-13-4.jpg"
     ],
     "text": [
-      "To have air valve also available",
-      "Size: 12.5 x 12.5 x 27cm"
+      "Fashion and Popular shape design",
+      "Movable velcro for better fitting",
+      "one side zipper opening pocket,",
+      "one side with mesh pocket",
+      "Size: 26.5 x 6 x 9 cm"
+    ]
+  },
+  "TY-03134AL": {
+    "title": "TY-03134AL",
+    "type": "",
+    "img": [
+      "https://yasu0304.github.io/konnix/img/products/frame_bag/TY-03134AL/TY-03134AL.jpg"
+    ],
+    "text": [
+      "Standard Frame Bag design",
+      "Popular and function products,",
+      "Shoulder Padding , Large size",
+      "Size: 30 x 4.5 x 20cm"
     ]
   }
 }
