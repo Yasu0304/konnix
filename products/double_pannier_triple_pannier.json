@@ -1,31 +1,100 @@
 {
-  "WR-15840K": {
-    "title": "WR-15840K",
-    "type": "cage_bag",
+  "WR-09817DB-S": {
+    "title": "WR-09817DB-S",
+    "type": "waterproof collection",
     "img": [
-      "./img/products/bike_packing/cage_bag/WR-15840K/WR-15840K.jpg"
+      "./img/products/double_pannier_triple_pannier/waterproof_collection/WR-09817DB-S/WR-09817DB-S.jpg"
     ],
     "text": [
-      "Bike packingFront Fork bag",
-      "ECO waterproof fabric finished",
-      "Top roll down closing with buckle fasten.",
-      "With New system Cage install on the fork tube.",
-      "Available with several installations, bolts / clamp / cable tie.",
-      "2 extra strap go around the bag tight into the cage with ladder lock.",
-      "2 size option,",
-      "WR-15840K Size: 12.5 x 12.5 x 27cm",
-      "WR-15840KL Size: 17 x 17 x 15cm"
+      "Waterproof finished double pannier bag design.",
+      "ECO fabric waterproof collection.",
+      "Reflective safety care patch on the rear of bag.",
+      "Top roll closing with webbing buckle.",
+      "Middle panel on the top of rack with velcro fixing.",
+      "With 4 join points side released buckle connecting bags.",
+      "Each back of bag with stopper to hold the down of the rack.",
+      "With handle strap on the top of the bag.",
+      "Size: 26 x 10.5 x 37 cm (single side)"
     ]
   },
-  "WR-15840K-V": {
-    "title": "WR-15840K-V",
-    "type": "cage_bag",
+  "TR-231003R": {
+    "title": "TR-231003R",
+    "type": "waterproof collection",
     "img": [
-      "./img/products/bike_packing/cage_bag/WR-15840K/WR-15840K-V.jpg"
+      "./img/products/double_pannier_triple_pannier/waterproof_collection/TR-231003R/TR-231003R-1.jpg",
+      "./img/products/double_pannier_triple_pannier/waterproof_collection/TR-231003R/TR-231003R-2.jpg"
     ],
     "text": [
-      "To have air valve also available",
-      "Size: 12.5 x 12.5 x 27cm"
+      "Inner pouch with waterproof finished design.",
+      "Outer of bag with stitching design.",
+      "Main storage bag with top roll closing buckle.",
+      "Front panel with extra zipper pocket.",
+      "Top cover with another zipper pocket .",
+      "Two bag connecting fixed.",
+      "Size: 29 x 12 x 31.5 cm (single side)"
+    ]
+  },
+  "WR-17040XL": {
+    "title": "WR-17040XL",
+    "type": "waterproof collection",
+    "img": [
+      "./img/products/double_pannier_triple_pannier/waterproof_collection/WR-17040XL/WR-17040XL.jpg"
+    ],
+    "text": [
+      "Extra large Cargo Bike double pannier bag design, Waterproof finished.",
+      "Middle connecting webbing hold on the rack of bike.",
+      "Top flap cover including, top roll closing with buckle.",
+      "2 alloy hook attached fixing the flap cover on the each bag.",
+      "Inner with strong plastic sheet support attached.",
+      "Top handle attached . Reflective safety care patch including.",
+      "Size: 38 x 17.5 x 29 cm (single side)"
+    ]
+  },
+  "TY-031003-23": {
+    "title": "TY-031003-23",
+    "type": "standard collection",
+    "img": [
+      "./img/products/double_pannier_triple_pannier/standard_collection/TY-031003-23/TY-031003-23.jpg\n"
+    ],
+    "text": [
+      "Double Pannier",
+      "Webbing fastening with Rear Rack",
+      "With Handle strap carry",
+      "Reflective security care",
+      "Size: 29.5 x 12 x 27cm (one side)"
+    ]
+  },
+  "TY-031001-23": {
+    "title": "TY-031001-23",
+    "type": "standard collection",
+    "img": [
+      "./img/products/double_pannier_triple_pannier/standard_collection/TY-031001-23/TY-031001-23.jpg"
+    ],
+    "text": [
+      "3 unit pannier bag",
+      "Top pocket can not be moved",
+      "with webbing & ladder lock for fastening",
+      "Size: 49 x 29 x 41cm"
+    ]
+  },
+  "TY-131002MPR": {
+    "title": "TY-131002MPR",
+    "type": "standard collection",
+    "img": [
+      "./img/products/double_pannier_triple_pannier/standard_collection/TY-131002MPR/TY-131002MPR-1.jpg",
+      "./img/products/double_pannier_triple_pannier/standard_collection/TY-131002MPR/TY-131002MPR-2.jpg",
+      "./img/products/double_pannier_triple_pannier/standard_collection/TY-131002MPR/TY-131002MPR-3.jpg"
+    ],
+    "text": [
+      "Triple Pannier with top Rucksack",
+      "Rucksack with function shoulder padding",
+      "with Mesh pocket in the front",
+      "Down with double pannier Hooks fastening",
+      "each side with extra front Mesh pocket",
+      "Strong Plastic sheet support the bag",
+      "security Reflective care",
+      "Size: 34 x 14 x 38.5cm (one side)",
+      "Top Rucksack: 30 x 13 x41cm"
     ]
   }
 }
