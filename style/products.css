@@ -41,7 +41,23 @@
   color: #44D62C;
 }
 .sideIcon a:hover {
-  color: #161519;
+  color: #44D62C;
+}
+
+.sideIcon a:active {
+  color: #44D62C;
+}
+.sideIcon a:active i.bi {
+  margin-right: 0px;
+  color: #44D62C;
+}
+
+.sideIcon a:focus {
+  color: #44D62C;
+}
+.sideIcon a:focus i.bi {
+  margin-right: 0px;
+  color: #44D62C;
 }
 
 .productsList {
@@ -56,4 +72,8 @@
   background-color: #44D62C;
   color: #161519;
   transition: 0.5s;
+}
+.productsList-btn:focus {
+  background-color: #44D62C;
+  color: #161519;
 }/*# sourceMappingURL=products.css.map */

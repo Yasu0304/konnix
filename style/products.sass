@@ -30,11 +30,25 @@
     &:hover i.bi
         margin-right: 0px
         color: $secondary
+
 .sideIcon a
     &:focus
         color: $secondary
     &:hover
-        color: $primary
+        color: $secondary
+
+// 這邊是左側選單按鈕按下的樣式，foucus為當前目標的樣式，跟active樣式一樣
+.sideIcon a:active
+    color: $secondary
+    & i.bi
+        margin-right: 0px
+        color: $secondary
+
+.sideIcon a:focus
+    color: $secondary
+    & i.bi
+        margin-right: 0px
+        color: $secondary
 
 .productsList
     margin-bottom: 80px
@@ -46,3 +60,6 @@
         background-color: $secondary
         color: $primary
         transition: 0.5s
+    &:focus
+        background-color: $secondary
+        color: $primary

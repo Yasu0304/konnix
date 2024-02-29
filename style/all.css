@@ -22,4 +22,9 @@
 
 .textIndent {
   text-indent: -1rem;
+}
+
+.textIndent .bi {
+  text-indent: 0em;
+  padding-right: 4px;
 }/*# sourceMappingURL=all.css.map */
