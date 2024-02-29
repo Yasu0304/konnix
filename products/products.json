@@ -469,6 +469,9 @@
       },
       "QR6": {
         "img": "./img/products/system/saddle_bag/QR6/QR6.jpg"
+      },
+      "T-Bar": {
+        "img": "./img/products/system/saddle_bag/T-Bar/T-Bar-1.jpg"
       }
     },
     "Handy bag": {
@@ -502,6 +505,12 @@
       },
       "Hook 05": {
         "img": "./img/products/system/pannier/Hook%2005/Hook%2005.jpg"
+      },
+      "Hook 07": {
+        "img": "./img/products/system/pannier/Hook%2005/Hook%2005.jpg"
+      },
+      "Hook 08": {
+        "img": "./img/products/system/pannier/Hook%2005/Hook%2005.jpg"
       }
     },
     "Trunk bag System options": {
@@ -509,10 +518,10 @@
         "img": "./img/products/system/trunk_bag/QRS-01/QRS-01.jpg"
       },
       "SW-01": {
-        "img": "./img/products/system/trunk_bag/QRS-01/QRS-01.jpg"
+        "img": "./img/products/system/trunk_bag/SW-01/SW-01.jpg"
       },
       "MIK": {
-        "img": "./img/products/system/trunk_bag/QRS-01/QRS-01.jpg"
+        "img": "./img/products/system/trunk_bag/MIK/MIK.jpg"
       }
     },
     "Messenger bag": {

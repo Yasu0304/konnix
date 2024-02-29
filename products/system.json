@@ -12,171 +12,317 @@
     "title": "SP2",
     "type": "",
     "img": [
-      ""
+      "./img/products/system/handlebar/SP2/SP2.jpg"
     ],
     "text": [
+      "Mount bike Handlebar Bag mounting system",
+      "Most easy way to install",
+      "Extra support to the stem to hold the bracket up."
     ]
   },
   "E-SP2": {
     "title": "E-SP2",
     "type": "",
     "img": [
-      ""
+      "./img/products/system/handlebar/E-SP2/E-SP2.jpg"
     ],
     "text": [
+      " First gengeration of E-Bike Handlebar bracket",
+      " Shorter mounut bar, size available 22.2~31.8mm"
     ]
   },
   "Cradle": {
     "title": "Cradle",
     "type": "",
     "img": [
-      ""
+      "./img/products/system/handlebar/Cradle/Cradle.jpg"
     ],
     "text": [
+      "HC-01/19M: Cradle with bolt install on the Bike Handlebar",
+      "SP2/ H.C 01: Cradle attach with SP2 Handlebar Quick Released System",
+      "E-SP4/ H.C 01: Cradle attach with E-SP4 E-Bike Handlebar Quick Released System"
     ]
   },
   "3PMTS＋Easy pull": {
     "title": "3PMTS＋Easy pull",
     "type": "",
     "img": [
-      ""
+      "./img/products/system/handlebar/3PMTS+Easy pull/3PMTS+Easy pull-1.jpg",
+      "./img/products/system/handlebar/3PMTS+Easy pull/3PMTS+Easy pull-2.jpg"
     ],
     "text": [
+      "One bolt installtion",
+      "Fittint with  Slide2go easy pull",
+      "Suitable for the message/ Handlebar/ shopping.",
+      "Adjustable angle, 22.2 ~ 31.8mm"
     ]
   },
   "E-SP4": {
     "title": "E-SP4",
     "type": "",
     "img": [
-      ""
+      "./img/products/system/handlebar/E-SP4/E-SP4.jpg"
     ],
     "text": [
+      "New E-bike Handlebar Bag mounting system",
+      "With 4 bolts installation.",
+      "Crossbar under stem to hold the bracket up."
     ]
   },
   "QR2": {
     "title": "QR2",
     "type": "",
     "img": [
-      ""
+      "./img/products/system/saddle_bag/QR2/QR2-1.jpg",
+      "./img/products/system/saddle_bag/QR2/QR2-2.jpg"
     ],
     "text": [
+      "Saddle Bag slider system bracket,",
+      "2 bolts installation, one push easy pull off"
     ]
   },
   "QR3": {
     "title": "QR3",
     "type": "",
     "img": [
-      ""
+      "./img/products/system/saddle_bag/QR3/QR3-1.jpg",
+      "./img/products/system/saddle_bag/QR3/QR3-2.jpg"
     ],
     "text": [
+      "Saddle Bag side released buckle bracket",
+      "2 bolts installation, push and pull system"
     ]
   },
   "QR6": {
     "title": "QR6",
     "type": "",
     "img": [
-      ""
+      "./img/products/system/saddle_bag/QR6/QR6.jpg"
     ],
     "text": [
+      "Saddle Bag slider system bracket,",
+      "1 bolt installation, one push and pull system"
+    ]
+  },
+  "T-Bar": {
+    "title": "T-Bar",
+    "type": "",
+    "img": [
+      "./img/products/system/saddle_bag/T-Bar/T-Bar-1.jpg",
+      "./img/products/system/saddle_bag/T-Bar/T-Bar-2.jpg"
+    ],
+    "text": [
+      "Saddle Bag twist  system bracket,",
+      "Without installation"
     ]
   },
   "SPH01": {
     "title": "SPH01",
     "type": "",
     "img": [
-      ""
+      "./img/products/system/handy_bag/SPH01/SPH01-1.jpg",
+      "./img/products/system/handy_bag/SPH01/SPH01-2.jpg",
+      "./img/products/system/handy_bag/SPH01/SPH01-3.jpg"
     ],
     "text": [
+      "Handy Bag easy install system",
+      "One bolt installation, click on the Handlebar"
     ]
   },
   "SPH02": {
     "title": "SPH02",
     "type": "",
     "img": [
-      ""
+      "./img/products/system/handy_bag/SPH02/SPH02-1.jpg",
+      "./img/products/system/handy_bag/SPH02/SPH02-2.jpg",
+      "./img/products/system/handy_bag/SPH02/SPH02-3.jpg"
     ],
     "text": [
+      "Handy Bag easy install system",
+      "Belt installation, adjustable with push back and forth",
+      "Push down for releasing bag off"
     ]
   },
   "SPH03": {
     "title": "SPH03",
     "type": "",
     "img": [
-      ""
+      "./img/products/system/handy_bag/SPH03/SPH03.jpg"
     ],
     "text": [
+      "Handy Bag easy install system",
+      "Belt with hook adjustable installation",
+      "Push down for releasing bag off"
     ]
   },
   "CG-01": {
     "title": "CG-01",
     "type": "",
     "img": [
-      ""
+      "./img/products/system/cage/CG-01/CG-01-01.jpg",
+      "./img/products/system/cage/CG-01/CG-01-02.jpg"
     ],
     "text": [
+      "Gravel Bike fork bag holder - cage",
+      "Installation option -",
+      "With stainless clamp  and cable tie available,",
+      "To fixed with bike bolt also available.",
+      "Fit with extra webbing to hold differen size bag."
     ]
   },
   "QRT": {
     "title": "QRT",
     "type": "",
     "img": [
-      ""
+      "./img/products/system/pannier/QRT/QRT.jpg"
     ],
     "text": [
+      "Pannier T-cross with Hooks Qick Released system",
+      "Hooks adjust position, one push with spring to click in",
+      "Down with twistable bar to secure with Rack",
+      "Available for Rack 8 ~12mm(adapter )",
+      "Suitable for messenger / pannier / rucksack bag",
+      "Webbing grip extra part"
     ]
   },
   "T-19": {
     "title": "T-19",
     "type": "",
     "img": [
-      ""
+      "./img/products/system/pannier/T-19/T-19.jpg"
     ],
     "text": [
+      "Pannier Quick Released system,",
+      "Croos bar with two hooks , one push with sprting to click in",
+      "Down with stopper to secure with Rack",
+      "Available for Rack 8 ~12mm(adapter )",
+      "Suitable for messenger / pannier / rucksack bag",
+      "Plastic grip extra part"
     ]
   },
   "R&K": {
     "title": "R&K",
     "type": "",
     "img": [
-      ""
+      "./img/products/system/pannier/R&K/R&K.jpg"
     ],
     "text": [
+      "R&K pannier system",
+      "Hook can adjust with click",
+      "Made in Germany",
+      "Down with stopper to secure with Rack",
+      "Available for Rack 8~10mm",
+      "Suitable for messenger / pannier / rucksack bag",
+      "Plastic grip extra part"
     ]
   },
   "T-06": {
     "title": "T-06",
     "type": "",
     "img": [
-      ""
+      "./img/products/system/pannier/T-06/T-06.jpg"
     ],
     "text": [
+      "Pannier Quick Released system,",
+      "Croos bar with two hooks, without spring system",
+      "Down with stopper to secure with Rack",
+      "Available for Rack 8 ~14mm(adapter )",
+      "Plastic grip extra part",
+      "Suitable for messenger / pannier / rucksack bag"
     ]
   },
   "Hook 05": {
     "title": "Hook 05",
     "type": "",
     "img": [
+      "./img/products/system/pannier/Hook 05/Hook 05.jpg"
+    ],
+    "text": [
+      "Pannier Hooks option",
+      "Hook with spring push click",
+      "Available for Rack 8 ~12mm(adapter )",
+      "Suitable for messenger / pannier / rucksack bag"
+    ]
+  },
+  "Hook 07": {
+    "title": "Hook 07",
+    "type": "",
+    "img": [
       ""
     ],
     "text": [
+      "Pannier Hooks option",
+      "Hook with spring push click",
+      "Available for Rack 8~12mm",
+      "Suitable for messenger / pannier / rucksack bag"
+    ]
+  },
+  "Hook 08": {
+    "title": "Hook 08",
+    "type": "",
+    "img": [
+      ""
+    ],
+    "text": [
+      "Pannier Hooks optio",
+      "Hook with spring push click",
+      "Available for Rack 8~14m",
+      "Suitable for messenger / pannier / rucksack bag"
     ]
   },
   "QRS-01": {
     "title": "QRS-01",
     "type": "",
     "img": [
-      ""
+      "./img/products/system/trunk_bag/QRS-01/QRS-01.jpg"
     ],
     "text": [
+      "Seat post quick released system",
+      "Quick install on seat post, bag attached to the frame of the QR",
+      "Easy carry and off the bag from the Bike"
+    ]
+  },
+  "SW-01": {
+    "title": "SW-01",
+    "type": "",
+    "img": [
+      "./img/products/system/trunk_bag/SW-01/SW-01.jpg"
+    ],
+    "text": [
+      "Carrymore rack system",
+      "Trunk bag install the QR plate to go with Carrymore rack will be easy to carry trunk"
+    ]
+  },
+  "MIK": {
+    "title": "MIK",
+    "type": "",
+    "img": [
+      "./img/products/system/trunk_bag/MIK/MIK.jpg"
+    ],
+    "text": [
+      "Newest Trunk bag carry system, quick click and go with Trunk bag"
     ]
   },
   "Rack click 02": {
     "title": "Rack click 02",
     "type": "",
     "img": [
-      ""
+      "./img/products/system/messenger_bag/Rack click 02/Rack click 02.jpg"
     ],
     "text": [
+      "Best simple clean click system, super strong out of alloy",
+      "Suitable for the Messenger or Shipping bag"
+    ]
+  },
+  "Rack Slider Cap": {
+    "title": "Rack Slider Cap",
+    "type": "",
+    "img": [
+      "./img/products/system/messenger_bag/Rack Slider Cap/rack-slider-cap.jpg"
+    ],
+    "text": [
+      "Slide2go cap for rack or shopping bag to fit with S2G easy click",
+      "Strongest system"
     ]
   }
 }
