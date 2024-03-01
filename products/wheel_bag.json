@@ -12,7 +12,7 @@
     "title": "TY-56BDM-2CM",
     "type": "",
     "img": [
-      ""
+      "./img/products/wheel_bag/wheel_bag/TY-56BD/TY-56BD.jpg"
     ],
     "text": [
       "Double Rim bag",
@@ -25,7 +25,7 @@
     "title": "TY-56BDL-29",
     "type": "",
     "img": [
-      ""
+      "./img/products/wheel_bag/wheel_bag/TY-56BL-29/TY-56BL-29.jpg"
     ],
     "text": [
       "Double Rim bag",
@@ -38,7 +38,7 @@
     "title": "TY-56BL-29",
     "type": "",
     "img": [
-      ""
+      "./img/products/wheel_bag/wheel_bag/TY-56BL-29/TY-56BL-29.jpg"
     ],
     "text": [
       "Single Rim bag",
@@ -51,7 +51,8 @@
     "title": "PL-001",
     "type": "",
     "img": [
-      ""
+      "./img/products/wheel_bag/bike_bag/PL-001/PL-001-1.jpg",
+      "./img/products/wheel_bag/bike_bag/PL-001/PL-001-2.jpg"
     ],
     "text": [
       "Folding Bike bag",
@@ -68,7 +69,8 @@
     "title": "CT-001-13",
     "type": "",
     "img": [
-      ""
+      "./img/products/wheel_bag/bike_bag/CT-001-13/CT-001-13-1.jpg",
+      "./img/products/wheel_bag/bike_bag/CT-001-13/CT-001-13-2.jpg"
     ],
     "text": [
       "Folding Bike carry Bag",
@@ -84,7 +86,8 @@
     "title": "TY-0558B",
     "type": "",
     "img": [
-      ""
+      "./img/products/wheel_bag/bike_cover/TY-0558B/TY-0558B-1.jpg",
+      "./img/products/wheel_bag/bike_cover/TY-0558B/TY-0558B-2.jpg"
     ],
     "text": [
       "Bike rain cover, light Nylon waterproof resistant fabric.",
@@ -101,7 +104,8 @@
     "title": "TY-58B",
     "type": "",
     "img": [
-      ""
+      "./img/products/wheel_bag/bike_cover/TY-58B/TY-58B-1.jpg",
+      "./img/products/wheel_bag/bike_cover/TY-58B/TY-58B-2.jpg"
     ],
     "text": [
       "Rain cover, light Nylon waterproof resistant fabric",
