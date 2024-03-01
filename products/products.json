@@ -257,10 +257,10 @@
   },
   "Double pannier/Triple pannier": {
     "Waterproof collection": {
-      "WR-09817DB-S": {
+      "WR-09817DB": {
         "img": "./img/products/double_pannier_triple_pannier/waterproof_collection/WR-09817DB-S/WR-09817DB-S.jpg"
       },
-      "TR-231003R": {
+      "TR-231003RDB": {
         "img": "./img/products/double_pannier_triple_pannier/waterproof_collection/TR-231003R/TR-231003R-1.jpg"
       },
       "WR-17040XL": {
@@ -330,8 +330,8 @@
       "WR-2302-MO": {
         "img": "./img/products/waterproof_motorcycle_collection/waterproof_collection/WR-2302-MO/WR-2302-MO.jpg"
       },
-      "WR-004+WR-2302-MO": {
-        "img": "./img/products/waterproof_motorcycle_collection/waterproof_collection/WR-004+WR-2302-MO/WR-004+WR-2302-MO.jpg"
+      "WR-004＋WR-2302-MO": {
+        "img": "./img/products/waterproof_motorcycle_collection/waterproof_collection/WR-004＋WR-2302-MO/WR-004＋WR-2302-MO.jpg"
       },
       "WR-17040XL-MO": {
         "img": "./img/products/waterproof_motorcycle_collection/waterproof_collection/WR-17040XL-MO/WR-17040XL-MO.jpg"
@@ -476,10 +476,10 @@
     },
     "Handy bag": {
       "SPH01": {
-        "img": "./img/products/system/saddle_bag/T-Bar/T-Bar-1.jpg"
+        "img": "./img/products/system/handy_bag/SPH01/SPH01-1.jpg"
       },
       "SPH02": {
-        "img": "./img/products/system/handy_bag/SPH01/SPH01-1.jpg"
+        "img": "./img/products/system/handy_bag/SPH02/SPH02-1.jpg"
       },
       "SPH03": {
         "img": "./img/products/system/handy_bag/SPH03/SPH03.jpg"
@@ -497,7 +497,7 @@
       "T-19": {
         "img": "./img/products/system/pannier/T-19/T-19.jpg"
       },
-      "R&K": {
+      "R＆K": {
         "img": "./img/products/system/pannier/R&K/R&K.jpg"
       },
       "T-06": {
@@ -529,7 +529,7 @@
         "img": "./img/products/system/messenger_bag/Rack%20click%2002/Rack%20click%2002.jpg"
       },
       "Rack Slider Cap": {
-        "img": "./img/products/system/messenger_bag/Rack%20click%2002/Rack%20click%2002.jpg"
+        "img": "./img/products/system/messenger_bag/Rack%20Slider%20Cap/rack-slider-cap.jpg"
       }
     }
   }

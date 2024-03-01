@@ -27,8 +27,8 @@
       "./img/products/system/handlebar/E-SP2/E-SP2.jpg"
     ],
     "text": [
-      " First gengeration of E-Bike Handlebar bracket",
-      " Shorter mounut bar, size available 22.2~31.8mm"
+      "First gengeration of E-Bike Handlebar bracket",
+      "Shorter mount bar, size available 22.2~31.8mm"
     ]
   },
   "Cradle": {
@@ -49,8 +49,8 @@
     "title": "3PMTS＋Easy pull",
     "type": "",
     "img": [
-      "./img/products/system/handlebar/3PMTS+Easy pull/3PMTS+Easy pull-1.jpg",
-      "./img/products/system/handlebar/3PMTS+Easy pull/3PMTS+Easy pull-2.jpg"
+      "./img/products/system/handlebar/3PMTS＋Easy pull/3PMTS＋Easy pull-1.jpg",
+      "./img/products/system/handlebar/3PMTS＋Easy pull/3PMTS＋Easy pull-2.jpg"
     ],
     "text": [
       "One bolt installtion",
@@ -195,14 +195,14 @@
     ],
     "text": [
       "Pannier Quick Released system,",
-      "Croos bar with two hooks , one push with sprting to click in",
+      "Cross bar with two hooks , one push with spring to click in",
       "Down with stopper to secure with Rack",
       "Available for Rack 8 ~12mm(adapter )",
       "Suitable for messenger / pannier / rucksack bag",
       "Plastic grip extra part"
     ]
   },
-  "R&K": {
+  "R＆K": {
     "title": "R&K",
     "type": "",
     "img": [
@@ -226,7 +226,7 @@
     ],
     "text": [
       "Pannier Quick Released system,",
-      "Croos bar with two hooks, without spring system",
+      "Cross bar with two hooks, without spring system",
       "Down with stopper to secure with Rack",
       "Available for Rack 8 ~14mm(adapter )",
       "Plastic grip extra part",
@@ -250,7 +250,7 @@
     "title": "Hook 07",
     "type": "",
     "img": [
-      ""
+      "./img/products/system/pannier/Hook 07/Hook-07.jpg"
     ],
     "text": [
       "Pannier Hooks option",
@@ -263,7 +263,7 @@
     "title": "Hook 08",
     "type": "",
     "img": [
-      ""
+      "./img/products/system/pannier/Hook 08/Hook-08.jpg"
     ],
     "text": [
       "Pannier Hooks optio",
@@ -291,8 +291,8 @@
       "./img/products/system/trunk_bag/SW-01/SW-01.jpg"
     ],
     "text": [
-      "Carrymore rack system",
-      "Trunk bag install the QR plate to go with Carrymore rack will be easy to carry trunk"
+      "Carry more rack system",
+      "Trunk bag install the QR plate to go with Carry more rack will be easy to carry trunk"
     ]
   },
   "MIK": {
